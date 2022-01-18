@@ -1,0 +1,3099 @@
+{
+    "query": "portrait",
+    "results": [
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-C-1672",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-C-1672"
+            },
+            "id": "en-SK-C-1672",
+            "objectNumber": "SK-C-1672",
+            "title": "Portrait of Alida Christina Assink",
+            "hasImage": true,
+            "principalOrFirstMaker": "Jan Adam Kruseman",
+            "longTitle": "Portrait of Alida Christina Assink, Jan Adam Kruseman, 1833",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "a754c3dd-1734-462d-ab2c-c80a32f1a983",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1791,
+                "height": 2500,
+                "url": "https://lh5.ggpht.com/P5o0tug6fqYu5WAV1L8wObu37HGOGrwgRuGLhkx9Ban89a6PwwUOA2uTSEllOUN_S33pBoJi7NoFcMsw89guz14O8TY=s0"
+            },
+            "headerImage": {
+                "guid": "b06a3793-1e02-42b5-beea-a485a29e7834",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1791,
+                "height": 430,
+                "url": "https://lh3.ggpht.com/VhJW8lei0ed6V3alJxuZPx1eU6wqz6lJBs-4s-XBfuH98AyCsGRr9eQTyEoyRCwsFhAEOyOCmE-tBbIAO3tkXUL9iufm=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-C-597",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-C-597"
+            },
+            "id": "en-SK-C-597",
+            "objectNumber": "SK-C-597",
+            "title": "Portrait of a Woman, Possibly Maria Trip",
+            "hasImage": true,
+            "principalOrFirstMaker": "Rembrandt van Rijn",
+            "longTitle": "Portrait of a Woman, Possibly Maria Trip, Rembrandt van Rijn, 1639",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "165d03bb-95e8-4447-a911-865f1bd201d6",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2031,
+                "height": 2676,
+                "url": "https://lh3.googleusercontent.com/AyiKhdEWJ7XmtPXQbRg_kWqKn6mCV07bsuUB01hJHjVVP-ZQFmzjTWt7JIWiQFZbb9l5tKFhVOspmco4lMwqwWImfgg=s0"
+            },
+            "headerImage": {
+                "guid": "f0270e59-baca-4429-ba00-d6c37b9ad00f",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/MonorlaCKkTjeFrTBQyCb7kfmq8K--aWrThge7MsTItJxO_cw-8WbwgmTm0jTt-qfaFfnwa1qNEnsGYVHMPmCGmb0Pje=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-3148",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-3148"
+            },
+            "id": "en-SK-A-3148",
+            "objectNumber": "SK-A-3148",
+            "title": "Portrait of William I, Prince of Orange",
+            "hasImage": true,
+            "principalOrFirstMaker": "Adriaen Thomasz. Key",
+            "longTitle": "Portrait of William I, Prince of Orange, Adriaen Thomasz. Key, c. 1579",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "b7a50951-55b0-4d31-94d7-df21fc41940b",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1812,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/_BGOU2j67VwLEzkwwGvykBeqM-AgXmGcnQ1KOHVE_VcWJ8g6MqPXXTJ-P-is99ojsMggoe5tQnwsMrYdg7Y0ae6YNLU=s0"
+            },
+            "headerImage": {
+                "guid": "f820dbdc-0a72-4e4b-8ec6-b9d515a4902d",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1812,
+                "height": 435,
+                "url": "https://lh3.googleusercontent.com/76GOj1BwTODm6ucuTUPwQv7X-Xk8N_jYjwPPnae_u-zrhwr98yja4Z1UiXQ2-euB2KUOVdpYIvia0jNNmICD-RVQQjM=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-1405",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-1405"
+            },
+            "id": "en-SK-A-1405",
+            "objectNumber": "SK-A-1405",
+            "title": "Portrait of Jacob Cornelisz van Oostsanen (c. 1472/77-1528/33)",
+            "hasImage": true,
+            "principalOrFirstMaker": "Jacob Cornelisz van Oostsanen",
+            "longTitle": "Portrait of Jacob Cornelisz van Oostsanen (c. 1472/77-1528/33), Jacob Cornelisz van Oostsanen (workshop of), c. 1533",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "407fe89e-5255-417f-8888-0993bbf255ef",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2097,
+                "height": 2700,
+                "url": "https://lh3.googleusercontent.com/wsOiP3dkzCLPxvJrI22iBU6o0pTx924PhmColiZIS0U-9gxyuAEe0R_zXqBomPXyP5aQerx3BKhyiKxVMf1Z0Y8NjsU=s0"
+            },
+            "headerImage": {
+                "guid": "58e6fb51-e257-4ad2-a911-f1a7cdea0569",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/8eYbcx_7ZUd7gd7YvddcMlDGe8xBvIZ1s7YZpFSLcL6EBzL3IGJAVWC2zTIa-SzYJrPSoQvF_8oR4Ole0I2W-wGstA=s0"
+            },
+            "productionPlaces": [
+                "Amsterdam"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/NG-2010-39",
+                "web": "http://www.rijksmuseum.nl/en/collection/NG-2010-39"
+            },
+            "id": "en-NG-2010-39",
+            "objectNumber": "NG-2010-39",
+            "title": "Javanese Court Officials",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Javanese Court Officials, anonymous, c. 1820 - c. 1870",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "1702132a-0cd7-42ab-bc79-93672ab102a0",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 855,
+                "height": 2419,
+                "url": "https://lh3.googleusercontent.com/no1ShVtI10X9AkEjGYFZKbW_adMGuJ2yaaRBA01WMAxe_ZAT_LH7vEdDfW2dUE_aa5V7cw-yer3Ol8e21IFkRHLTE5U=s0"
+            },
+            "headerImage": {
+                "guid": "00d5bd03-8ead-4c33-8b1a-d06b3bf94fcb",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 855,
+                "height": 205,
+                "url": "https://lh3.googleusercontent.com/73lom1S6wg7v0-2k88XzVUCFvxGQCd0TDRms4OyT5mW6v56wF9KYdrH4f_B8rOtVTDX1KDhG42hbreo7iGZ2GaCZiw=s0"
+            },
+            "productionPlaces": [
+                "? Java"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/NG-2010-40",
+                "web": "http://www.rijksmuseum.nl/en/collection/NG-2010-40"
+            },
+            "id": "en-NG-2010-40",
+            "objectNumber": "NG-2010-40",
+            "title": "Javanese Court Officials",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Javanese Court Officials, anonymous, c. 1820 - c. 1870",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "49388e56-a203-4684-bca4-4caf0a0f22b1",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 826,
+                "height": 2433,
+                "url": "https://lh3.googleusercontent.com/VbIZ0F-lW54ZlHf6qLx-wroa79BlN3mZfy581QHrNXG5_iqyQGEI_CYsjg0IIzH_EHZcWpdCKw61s7fSwO-y4tAXnd4=s0"
+            },
+            "headerImage": {
+                "guid": "fa19b6cd-b737-40f6-bf6d-24cc2e2d3028",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 826,
+                "height": 198,
+                "url": "https://lh3.googleusercontent.com/dTs4VMwjFHKZajRQVS44v04WbCiPvQLzkYu53jGuylUUcUYvuvFffzvGurtJlisNM8QG-p5-WqUR5YZaX0nRB-ZDZn_f=s0"
+            },
+            "productionPlaces": [
+                "? Java"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/NG-2010-37",
+                "web": "http://www.rijksmuseum.nl/en/collection/NG-2010-37"
+            },
+            "id": "en-NG-2010-37",
+            "objectNumber": "NG-2010-37",
+            "title": "Javanese Court Officials",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Javanese Court Officials, anonymous, c. 1820 - c. 1870",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "7c99443f-e434-4ea2-b2e7-3edb83b688f7",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 836,
+                "height": 2427,
+                "url": "https://lh3.googleusercontent.com/E9pbUweicSThUFBXpATvlWlzEFp4kW4eibMjhZ91a9cKjTnloUd0Uu6M5VsVahCHo0bqyM9Y3GlrMFBfZ9Wth-KCj7U=s0"
+            },
+            "headerImage": {
+                "guid": "200015c7-fc84-4687-bf5a-561a03d8294c",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 836,
+                "height": 201,
+                "url": "https://lh3.googleusercontent.com/uFvVsn2qkRIyT0Wxwz36c-eYZXZVCxtWKPBoXncbODBhsK_1qJGvN-EHHeuEkYuGTaBCnVUkQ_BUyWkodRbo_DC8jWM=s0"
+            },
+            "productionPlaces": [
+                "? Java"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/NG-2010-38",
+                "web": "http://www.rijksmuseum.nl/en/collection/NG-2010-38"
+            },
+            "id": "en-NG-2010-38",
+            "objectNumber": "NG-2010-38",
+            "title": "Javaanse hoffunctionarissen",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Javaanse hoffunctionarissen, anonymous, c. 1820 - c. 1870",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "30dd903a-4b63-4642-9c36-b33420b27bfb",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 818,
+                "height": 2430,
+                "url": "https://lh3.googleusercontent.com/LJf9SNzex16Ys5zXCeSKPNE2VQ_e07VycGOg2Jkqocyg9buNsXUpggljjnWSiUqVDxCstUKG1ZmYdSAA_hchAq1oQ-wq=s0"
+            },
+            "headerImage": {
+                "guid": "12681685-7407-438f-86c8-0160a565c919",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 818,
+                "height": 196,
+                "url": "https://lh3.googleusercontent.com/gUgn80W0H2xZRo_5bbKQrMgOYeEIWoHn7-S9xg1qrk6LBAmoTPW8ed1tZEzyRxeKriCgwqqBq7a2HNLJSxrFANPnGq0=s0"
+            },
+            "productionPlaces": [
+                "? Java"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/NG-2010-41",
+                "web": "http://www.rijksmuseum.nl/en/collection/NG-2010-41"
+            },
+            "id": "en-NG-2010-41",
+            "objectNumber": "NG-2010-41",
+            "title": "Javaanse hoffunctionarissen",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Javaanse hoffunctionarissen, anonymous, c. 1820 - c. 1870",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "04a51da0-57f1-47f6-8f6b-80862ed400f6",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 830,
+                "height": 2426,
+                "url": "https://lh3.googleusercontent.com/BVWIJD6Qt5cOtWyhfzbMr8jV_Ap9G2TBuJPoQxSyOqg39tv3KSKFGRi_T6pmlmJImdTjGHLiYmnIzgSOnmQuWl51zJY=s0"
+            },
+            "headerImage": {
+                "guid": "3328b8f9-2024-4565-bcc2-73c37606e85c",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 830,
+                "height": 199,
+                "url": "https://lh3.googleusercontent.com/mU2wLZOJc7eq65zoz_BcaXUY12JJev39UmwYq97beXALPVLYaHUOLaRT-dAi6dJy6BO2h9XBgkFfjUQl6US4Yjt8tw=s0"
+            },
+            "productionPlaces": [
+                "? Java"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-372",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-372"
+            },
+            "id": "en-SK-A-372",
+            "objectNumber": "SK-A-372",
+            "title": "Mary Magdalene",
+            "hasImage": true,
+            "principalOrFirstMaker": "Jan van Scorel",
+            "longTitle": "Mary Magdalene, Jan van Scorel, c. 1530",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "f1cda91e-4d37-4056-8979-028c4cd3da49",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2833,
+                "height": 2465,
+                "url": "https://lh3.googleusercontent.com/moxL3z7zz5j_5gQCgvRGcmLD-RDhVgZvA2NGREYgkLTkYUbGa4Ts-57UaQ4ilN38xWX6w_gb_eU6hkMZcC-wfMg5NQ=s0"
+            },
+            "headerImage": {
+                "guid": "6a9a1b0d-f2c2-45b0-8df4-e908a6af5eee",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/krUs6F8pg2YHqhNKOR1MiQs1lemgNlfErNtQdZBP4Jc7Re3-e6ae-CPlRFIpPf269-j-ze8sa_08bImIoebjCySGawM=s0"
+            },
+            "productionPlaces": [
+                "? Haarlem"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-775",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-775"
+            },
+            "id": "en-SK-A-775",
+            "objectNumber": "SK-A-775",
+            "title": "Portrait of a Painter, probably a Self Portrait",
+            "hasImage": true,
+            "principalOrFirstMaker": "Christoffel Lubienitzki",
+            "longTitle": "Portrait of a Painter, probably a Self Portrait, Christoffel Lubienitzki, 1690 - 1729",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "7730a457-ccdf-48fd-bd65-4642ddafad46",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2056,
+                "height": 2604,
+                "url": "https://lh5.ggpht.com/M56_h8d8FPBdihnvGIDEPOHCB9-p6WF0WMqhvHrFd9S7_C9yLrn8c8eKOq5TzTD9gAsMBkA5U6Dzc2ATXX3Na-2dRg=s0"
+            },
+            "headerImage": {
+                "guid": "13363fe3-b5c1-43df-a9ae-2d229347cc07",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh6.ggpht.com/khupCPf9LpYJLaUdl-HNF98WscMQoZRVtXAkDPT_n2LyPmhNJGi1532C_I6EctvnRv3b2wEfPmkRW0KZHRtR-JNw2SA=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-3269",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-3269"
+            },
+            "id": "en-SK-A-3269",
+            "objectNumber": "SK-A-3269",
+            "title": "Portrait of a Man",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Portrait of a Man, anonymous, 1550 - 1580",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "a69abf58-de55-4d3a-9938-c555eb74e030",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2071,
+                "height": 2574,
+                "url": "https://lh3.ggpht.com/StaYxu9GYl3gj2c1LwPUXxKDsRGkHzYgFaKQ4cR7ZI5kd_jTocyaiS9ouuqXQBksVZ7lptKuNrL5Gmn7RHrSgHVbNTQ=s0"
+            },
+            "headerImage": {
+                "guid": "dd26dcbe-6aac-49f2-898d-4282f327b3fe",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh4.ggpht.com/NbUqy03D-kaabzKu80DmOkFvCCcx4HyFBAhPf8gOpi1lSOP7OfYf6n9knzhe2QudzyzMJq5BkR4Kicdy6npD7zj6dQ=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-3009",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-3009"
+            },
+            "id": "en-SK-A-3009",
+            "objectNumber": "SK-A-3009",
+            "title": "Portrait of a Woman",
+            "hasImage": true,
+            "principalOrFirstMaker": "Carlo Portelli, Pier Francesco Foschi",
+            "longTitle": "Portrait of a Woman, Carlo Portelli (attributed to), Pier Francesco Foschi (rejected attribution), 1540 - 1565",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "8bdee762-df2e-4feb-9a3e-85f8631ac530",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1962,
+                "height": 2676,
+                "url": "https://lh4.ggpht.com/Sg1FyojpDGQvlfKjkhVgiWMsyfmiNu_K4zGfVV3F2hCnN6SHu9rGnPyZP7EAVscJpk49owMXsnf43brW5OEvpmjoTNI=s0"
+            },
+            "headerImage": {
+                "guid": "4c98e219-4ee6-4dbc-9273-16274ceec587",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh4.ggpht.com/f21IGNBw8Yy9nUtVdPV0YJB_cKUFgwT6DaQORuly8KbfMt6Lr-RRTT7UekT2N0KZYf-EoA_aF_fhnaUUunZY71olGg=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-326",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-326"
+            },
+            "id": "en-SK-A-326",
+            "objectNumber": "SK-A-326",
+            "title": "Portrait of a man",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Portrait of a man, anonymous, 1633",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "3efff7d1-8f1a-446e-9201-3eaca4b39d2a",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/ZhWzZqfw3z6i8pBOCDwal67Pe06HQ0RjseQU9cHQjuOQDTEkCl2zaOzUro6PPWduPtstZcrOuNjsL05foMgcwcTKbB4=s0"
+            },
+            "headerImage": {
+                "guid": "abdefb1a-3882-438a-93ab-1d631ddb8fef",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/ZZTIr9OukP7yePJ6utzFC2FVUZSF7FFAYobM1xBliiFJ60QjsYzlM8aaTuNsQEQVOiGHtqsLGDXC6N3OXvzuy8Syia0=s0"
+            },
+            "productionPlaces": [
+                "Northern Netherlands"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-1847",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-1847"
+            },
+            "id": "en-SK-A-1847",
+            "objectNumber": "SK-A-1847",
+            "title": "Portrait of a Woman",
+            "hasImage": true,
+            "principalOrFirstMaker": "Michiel Nouts",
+            "longTitle": "Portrait of a Woman, Michiel Nouts, 1656",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "c5bfc976-a8f9-4fd7-8227-899345dfa10f",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2028,
+                "height": 2580,
+                "url": "https://lh5.ggpht.com/knoUUPZq9BgzyQbbasrnSaYeugNV4RNF2mTZtWy_00B8yPIXmRRHXdtlLUUgrPhbGi0D0DakJBNvDLCXEGr4vDdq2x8=s0"
+            },
+            "headerImage": {
+                "guid": "7ff55f06-87b0-402d-a2c7-9499ed887eba",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.ggpht.com/ciOitVtT45xbzz2_6TttAPyAyyraDusp_B6MnQm47Tz9vgUW_a3rxxJgypPWthZcVsnO_Rw7f5WKOFEnnRp7hJoTTGFe=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-3863",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-3863"
+            },
+            "id": "en-SK-A-3863",
+            "objectNumber": "SK-A-3863",
+            "title": "Portrait of a Boy",
+            "hasImage": true,
+            "principalOrFirstMaker": "Jacob Jan Nachenius",
+            "longTitle": "Portrait of a Boy, Jacob Jan Nachenius (attributed to), 1719 - 1752",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "7c6e9efc-3e05-4130-b297-b90614c5db3b",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2036,
+                "height": 2500,
+                "url": "https://lh4.ggpht.com/rp1Y6TdlWQvEB6gJNtzzjMG0vs93QHUVzNOvWVeskfGJvDv5D798SysuSkKgkwo7X7zrPlpFHl-FxBLbcqfW61JK5bs=s0"
+            },
+            "headerImage": {
+                "guid": "ae62324b-a455-4498-8421-c64c0095c0eb",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh5.ggpht.com/J_onKxdC7dSszw1Zupve2pSsAQmBQtBFwWw6Ar9Rj4cypfVHs3GphIW89D7CF_JPsAlvT-QTqBbHpbfMpil1G75RRA=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-2798",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-2798"
+            },
+            "id": "en-SK-A-2798",
+            "objectNumber": "SK-A-2798",
+            "title": "Portrait of a Painter",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Portrait of a Painter, anonymous, c. 1830",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "b346025d-d47e-468c-b19c-d0b666d74ce3",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2053,
+                "height": 2500,
+                "url": "https://lh3.ggpht.com/sJk4mAOgWmBsSfsgI-N8WIIAWBjbdKP0yHNVhy8g2gV8SKcNX4ZuHT8bQKgPExoqoe2rdcvqq4NMavXfk2npqjuYmQ=s0"
+            },
+            "headerImage": {
+                "guid": "90dee54b-e74b-456a-9b94-0b0832cda82a",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.ggpht.com/yDaSo7onx6YtbdF06hahJh9Gv0VtsA3Nawr_bXyb8w4UnLgQcbw1wOrklwMviBpfAlPX7TrrLpGPiYSe4flGkHwEkQ=s0"
+            },
+            "productionPlaces": [
+                "Northern Netherlands"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-920",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-920"
+            },
+            "id": "en-SK-A-920",
+            "objectNumber": "SK-A-920",
+            "title": "Portrait of a man",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Portrait of a man, anonymous, 1643",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "1fc248f7-0ff0-4f7b-810c-46972f93e125",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1975,
+                "height": 2500,
+                "url": "https://lh5.ggpht.com/-TDRJV67Kae6Vz0nx8cmrF5zqL-cibzEsA-iJyXza_4EgJyFKLJv3nKBiXC9p_hXtvkeMuEc0c1KcjVE0JgWvWq6Hh8=s0"
+            },
+            "headerImage": {
+                "guid": "c9f3eef6-82bf-481d-8304-c5d04213ced7",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.ggpht.com/8xIzjp2k61N2WNtWW0DT1-q0cOdux8owrqG8zREt2pKP-AFvAGmReMWb68off2e6aAYywO8pJsRDoHsFV67W69PcKjI=s0"
+            },
+            "productionPlaces": [
+                "Northern Netherlands"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-743",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-743"
+            },
+            "id": "en-SK-A-743",
+            "objectNumber": "SK-A-743",
+            "title": "Portrait of a man",
+            "hasImage": true,
+            "principalOrFirstMaker": "Jan Jansz Mostaert",
+            "longTitle": "Portrait of a man, Jan Jansz Mostaert (circle of), 1535",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "60f2487c-8aeb-4036-9fb0-6460773c378c",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1897,
+                "height": 2752,
+                "url": "https://lh3.googleusercontent.com/lygj5gq5556GxaspDG6ET6e6uAQiXqFCxd971qf0VFon0JY1eHJZNLv1hwBu8KFIZfbShUX-zyGGKUCet06mYqP3fus=s0"
+            },
+            "headerImage": {
+                "guid": "64f6e7df-2655-4d35-b7d6-2da23d57e8be",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1897,
+                "height": 455,
+                "url": "https://lh3.googleusercontent.com/MMlvdZp2vQInv8PD8pd8RUSM15OGL_RCo4EjdT72gE8VNoTI5zrVbN-J1nrhKAIKHOBkWf0omlfo3Fzu-nGL26pOuW4=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-327",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-327"
+            },
+            "id": "en-SK-A-327",
+            "objectNumber": "SK-A-327",
+            "title": "Portrait of a woman",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Portrait of a woman, anonymous, 1633",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "5a9222e6-993e-43ac-b6a3-9ef952da1696",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1923,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/xosaXlyjUXWz59ziGBZF4swh40MzhzJH27yEIrVUY8GElBLYRy_i9S88u6rA1pmdxP0AqdNqjoa8JeLcmCJbyrk_Y173=s0"
+            },
+            "headerImage": {
+                "guid": "5068fe55-9c71-4f9d-ab7a-fe82cfba396f",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/iHfmF5nh9RfQDxVtddL6twrN9uDbpxIuntgFZw1TB2SDjK-ppTnC-cQoJ02E9shT6rK-zQkKUFnAmud7ab5PdwiDa0Km=s0"
+            },
+            "productionPlaces": [
+                "Northern Netherlands"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-4232",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-4232"
+            },
+            "id": "en-SK-A-4232",
+            "objectNumber": "SK-A-4232",
+            "title": "Self-Portrait",
+            "hasImage": true,
+            "principalOrFirstMaker": "Michiel van Musscher",
+            "longTitle": "Self-Portrait, Michiel van Musscher, 1685",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "f008e609-9600-410b-9926-7f62cddfbb08",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2163,
+                "height": 2500,
+                "url": "https://lh5.ggpht.com/_iNsRihxD8ArWNKHC5XjPqIq1wUWp4SFgJ7OzrM8zAD7S02MfSECvJxKMr8JBkPxnufF0m_NvaXQiR4x_RJ-9kzgMb4=s0"
+            },
+            "headerImage": {
+                "guid": "88ec3267-93d2-4d0b-aad8-248b97428721",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.ggpht.com/cxFil7NTFU-ouh4k1TVGDQX5AJyH__WZEPiB7g5Wj5xBF8KFGbfjxbDXcvwcAhytb1XgYZWx35ujHFCIL9qCuD40mj8=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-577",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-577"
+            },
+            "id": "en-SK-A-577",
+            "objectNumber": "SK-A-577",
+            "title": "Portrait of a man",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Portrait of a man, anonymous, c. 1615 - c. 1620",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "983fe635-9c57-45ec-a306-d7f6d5d31742",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1947,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/E8k22zATBRhsQ7JpS_wr1nvactH19msw1DS3IAR9TpPGFrqm3Jyd0o-QUynuOSK577mXfKpQWTa-uXfjeJ494wUPsxcafc7Jp98PmR7C=s0"
+            },
+            "headerImage": {
+                "guid": "c99c1774-6dd8-460d-8a62-7b1e8f140e93",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/Go6OygQ1bAbcVkhZecVUjCamW9OknxMbs5zuaNHCtC8Q_FKJ7kNqwbJYxM_oPzMK1qQyyCDZcRd9GuJaDHNNk_I-XSDQLiMgZl7SqxpZ=s0"
+            },
+            "productionPlaces": [
+                "Northern Netherlands"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-3354",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-3354"
+            },
+            "id": "en-SK-A-3354",
+            "objectNumber": "SK-A-3354",
+            "title": "Portrait of a Man",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Portrait of a Man, anonymous, 1655",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "a922d0c1-f2f4-4697-a8c2-e5c3f037efc1",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2113,
+                "height": 2592,
+                "url": "https://lh3.ggpht.com/jMRmLTEHUl5_AjVAiDgrIqIiwKNyctev_xy47dSITQJ5zhZ3VYtockJpyniHd1h5TdMu09_fM5yNTBb22a3iPpDa_SA=s0"
+            },
+            "headerImage": {
+                "guid": "ea7e28ba-ba31-45da-92c1-29d0689e0ec7",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh4.ggpht.com/x1IvgYWYm8b4vMeTKAWwWOegLDehm30Q3Jft62xI-3WZpcIudKyiAu07uua5mNk5XXTYIE2WVJBB6FtnP0s-nCV7NZAL=s0"
+            },
+            "productionPlaces": [
+                "Northern Netherlands"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-4101",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-4101"
+            },
+            "id": "en-SK-A-4101",
+            "objectNumber": "SK-A-4101",
+            "title": "Portrait of a man",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Portrait of a man, anonymous, 1639",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "65bcf522-da95-4c2a-b3c4-a12e41cc79ab",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1924,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/XfapMRlmQPG6137bkel41O_91gRrUHfjPOHrBeOil1l9P0nHIcEQyN4RM_8hASrKCe3eRoQd4e9nv8QPIsLcs7GmQ9k=s0"
+            },
+            "headerImage": {
+                "guid": "b36fc784-9746-4099-9fba-f095ce3f39d7",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/Z8fkmOeN7yjnlIyirf9qX99CznHml7U3z13m5MIWos7c47Qb7zfLMNR6YSBV9r7leoxzjjP1EzA_0Os2jOjplzt6IfQ=s0"
+            },
+            "productionPlaces": [
+                "Northern Netherlands"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-738",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-738"
+            },
+            "id": "en-SK-A-738",
+            "objectNumber": "SK-A-738",
+            "title": "Portrait of a man",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Portrait of a man, anonymous, c. 1610 - c. 1620",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "a8832911-2fb7-4766-acdc-c5dd7f3dd43b",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1893,
+                "height": 2740,
+                "url": "https://lh3.googleusercontent.com/2MIh0IrtvmN3kq1ZnEoXV75TbBLJ7xzPGt2gHRjlzwCJwtqDQ0o3O3ZrUHLrZP89SUKxEARA9pU324299A-LZGN1xZ0L1uf9-efjp2Lj=s0"
+            },
+            "headerImage": {
+                "guid": "bc6eeb9a-b34f-4c52-972d-2f09ba6de36e",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1893,
+                "height": 454,
+                "url": "https://lh3.googleusercontent.com/al39ofLkl_Q1FFz8F4mt6sCR7cAmp8nDeISqdHk3N4FB-ddgWshw38BQjTrykrRoubmlVtYjd9OCg6y9LnGT577l9ewly25W-k4KhgOK=s0"
+            },
+            "productionPlaces": [
+                "Northern Netherlands"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-2108",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-2108"
+            },
+            "id": "en-SK-A-2108",
+            "objectNumber": "SK-A-2108",
+            "title": "Portrait of a woman",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Portrait of a woman, anonymous, c. 1540 - c. 1550",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "09be54cd-d6b1-4a4a-b2e5-3d7cc5e8a9d6",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2118,
+                "height": 2634,
+                "url": "https://lh3.googleusercontent.com/ZFPqCmw4XiehZBVg_kJrBZrXyjWfpMuYMvd1HaHyWY2zzm1qpNaKXvMNkugD7U28UkbhRMjefAriUjJ8oGKvPknOCw=s0"
+            },
+            "headerImage": {
+                "guid": "c0e75901-d74c-4c26-b548-ee0ddea03029",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/DqOek_WV8bphqflXsAca6qAVbfcP2RI570R563FneKgu6V2UkYd1g1Gb1MS3rSl2p1cIBpbkKWnV4YLd0sLYe6m9j-Q=s0"
+            },
+            "productionPlaces": [
+                "Northern Netherlands"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-761",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-761"
+            },
+            "id": "en-SK-A-761",
+            "objectNumber": "SK-A-761",
+            "title": "Portrait of a Man",
+            "hasImage": true,
+            "principalOrFirstMaker": "J. Attama",
+            "longTitle": "Portrait of a Man, J. Attama, 1655",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "586de5ca-5607-4372-8483-df0ed048d693",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2194,
+                "height": 2616,
+                "url": "https://lh5.ggpht.com/uyX2DxB_OTAdZLCunG19SodWe971PengzFihy-9Lbw_DFkiK4kdg-tuYSyZ6mBo_e0gFZTszcP0Rp7DXu39xZADSb0Y=s0"
+            },
+            "headerImage": {
+                "guid": "f6fc0cbd-bb4c-49ac-90ea-3938c7e68a1f",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh5.ggpht.com/NpzUUbztVtMz8BtQs-V8CD1M2Re4Zt-JaCv4nKecJYSdkjEJGSeKN9i0PMAz5X3Br2FIC03DhsJpLm1aES7EQybmow=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-1597",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-1597"
+            },
+            "id": "en-SK-A-1597",
+            "objectNumber": "SK-A-1597",
+            "title": "Self-Portrait",
+            "hasImage": true,
+            "principalOrFirstMaker": "Cornelis de Beet",
+            "longTitle": "Self-Portrait, Cornelis de Beet, 1652",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "528ced89-32fd-4031-85f1-d535ae0d429d",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2036,
+                "height": 2500,
+                "url": "https://lh5.ggpht.com/2t7iNRfzrkSHPI4jw0T_wNWCJz0hcFQnQwAK0j3FF_bR-9cOcDlxjJRIH-h_AREBY4C3j6rJGjbJqH2_m_zd55iZa_HY=s0"
+            },
+            "headerImage": {
+                "guid": "282e48c1-908f-4921-8a35-fee95334ec18",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.ggpht.com/Pe70BlLT3q5ptJMdz0Udtb0WGnas1YXP91_7Dls_rzCdwzfYDtaxzqabL92v-6f32LJOVVAbSBHZrfyANz7RngjYiw=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-2",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-2"
+            },
+            "id": "en-SK-A-2",
+            "objectNumber": "SK-A-2",
+            "title": "Portrait of a Man",
+            "hasImage": true,
+            "principalOrFirstMaker": "Pieter van Anraedt",
+            "longTitle": "Portrait of a Man, Pieter van Anraedt, 1671",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "0db538b2-ba26-49b0-be69-9607c9a16619",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2041,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/LjM7stzJY9qOhkp2gsTEROQpkocmfXe0rJE4JwBgfpwYwk90ccXsvFKbJuVIdgZB7zXFIhC4tVTt4OmRK2_SOmlSjA=s0"
+            },
+            "headerImage": {
+                "guid": "27caaf5d-6595-4a45-84e2-56d7eeae0c64",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/sd5pjdoYptCjNayNoI5wKuEnOWq6p3xXxcvrKm8R7Afm0bks9oUontUwJj24z_xhBE3ITCw317So__4c-msxG1rDUg=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-1350",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-1350"
+            },
+            "id": "en-SK-A-1350",
+            "objectNumber": "SK-A-1350",
+            "title": "Portrait of a Woman",
+            "hasImage": true,
+            "principalOrFirstMaker": "Pieter van Anraedt",
+            "longTitle": "Portrait of a Woman, Pieter van Anraedt, 1671",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "5acce99c-0100-4253-bc78-ec4a8b146aac",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2048,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/jo3Jmgr6F9L184I7uctjhX8F36zkTbA74ncB5XAS6AB7pkNqGtQDh5gaDDHNfcdKnVSp4YxJPEHPltYNeE92_DSkw8U=s0"
+            },
+            "headerImage": {
+                "guid": "f963e497-dbde-45ed-ad12-0d3b0e5b1fca",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/JjMbhPxU5EB0oCWkXzN5PLtuIVw3ZG0GubG8CFeAHHK4Oi1RkdbDb2Gj7Y5LUqt4OeL07wV9InLdWT6C74zuG_Zctg=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-43",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-43"
+            },
+            "id": "en-SK-A-43",
+            "objectNumber": "SK-A-43",
+            "title": "Portrait of a Man",
+            "hasImage": true,
+            "principalOrFirstMaker": "Ferdinand Bol",
+            "longTitle": "Portrait of a Man, Ferdinand Bol, 1663",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "5008bda8-c800-4ec1-a7de-2c5d0c30530b",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2020,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/todJ3qOzS2yR_nyzC4udka3mAWquHIshDriuHdxmB12tTONzY3HWrQX_CA-UjPVtyzMxNcjmUwApL1oNIpVUWSo2e6Qf=s0"
+            },
+            "headerImage": {
+                "guid": "4329ace0-149e-42bf-9f1c-70ccda6671a6",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/FROJA-H4PrOE_GCGS_TiW_2JKkipnAMOXweJPf9waFqnC2wVO3nU1SdpEbSmMl9W4VvY3P02Drt8m3jZVGY0siDZmQ=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-3440",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-3440"
+            },
+            "id": "en-SK-A-3440",
+            "objectNumber": "SK-A-3440",
+            "title": "Portrait of a Man",
+            "hasImage": true,
+            "principalOrFirstMaker": "Jacopo Tintoretto",
+            "longTitle": "Portrait of a Man, Jacopo Tintoretto (circle of), 1550 - 1575",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "879d6901-dfbb-4c15-87e6-d1745973b68b",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2036,
+                "height": 2500,
+                "url": "https://lh5.ggpht.com/ph096u0M2WQYQ-cX2f4346OftFED_x0Ab3u8w-6ukzi1cxMDmsPjihEtobDH3PvoqOE8baABo2X1-Ebi5GVBLOmBwcg=s0"
+            },
+            "headerImage": {
+                "guid": "25fa1efe-db2d-4333-9ac7-405ae453e1c7",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh6.ggpht.com/2EBFsNmkQ7tpLXB_LB1AAFjOnWsTTDlZKb2iM5AIDkE7TVSw4wmFGLNjfwkFhkyQ21mB_S3pNOLYHOuI9Cir3qXJFKw=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-C-241",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-C-241"
+            },
+            "id": "en-SK-C-241",
+            "objectNumber": "SK-C-241",
+            "title": "Portrait of a woman",
+            "hasImage": true,
+            "principalOrFirstMaker": "Abraham van den Tempel",
+            "longTitle": "Portrait of a woman, Abraham van den Tempel, 1646",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "ae276999-2f24-434d-a9e4-c1c3ecc0d2f5",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2156,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/ka6vlHdrfMB3JXrO9yAlQ1SDWWGih3Yp-76OXZu4U8nEuv4uE4k8Ea4T7D7F3J8fQ1ZUQjC35PNBC4qAwTxug9V3BaE=s0"
+            },
+            "headerImage": {
+                "guid": "b76ab878-e036-4231-ad66-e45b586cf95e",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/k4CWw8qYCg6nTx7Sa9ot3zP2M84xdp8YidHIbnIZYqVqTanJosg7dJqYrPt03sJS9O8CO48ml2RxTjCi7yz6HBDtTA=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-3266",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-3266"
+            },
+            "id": "en-SK-A-3266",
+            "objectNumber": "SK-A-3266",
+            "title": "Portrait of a Boy",
+            "hasImage": true,
+            "principalOrFirstMaker": "August Allebé",
+            "longTitle": "Portrait of a Boy, August Allebé, 1856",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "03dc7052-7fb8-417e-b8df-b1f5423cdc40",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1624,
+                "height": 2500,
+                "url": "https://lh6.ggpht.com/z70BTtDsrD9lHqmqswO1LKNsq4qn689GtB9OQv_2IFpoobGXBKEmpohWaDVBI_Kg8d17X1vVhzWL5dliqOcbdxT7QLg=s0"
+            },
+            "headerImage": {
+                "guid": "373fc943-8ab9-4e4d-8e86-d97c27b54d26",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1624,
+                "height": 390,
+                "url": "https://lh5.ggpht.com/iUbTgrln8YzrJmeMF49hJxiqgLPuakIZo0HwYgaegox47l8l71_XvJADSCUtyNMrDykXO374WGMPvrjuoFFi6rparg=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-4221",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-4221"
+            },
+            "id": "en-SK-A-4221",
+            "objectNumber": "SK-A-4221",
+            "title": "Portrait of a Woman",
+            "hasImage": true,
+            "principalOrFirstMaker": "Pieter Dubordieu",
+            "longTitle": "Portrait of a Woman, Pieter Dubordieu, 1637",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "dce3c40e-dc57-4c27-8bd1-107aed3bec28",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2140,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/NlI339xx7vCw_Pi0AJFwt2YHlS4v9eBloZsJonKkIbQkANyxT-cR1QpRvBRdAoWHdutDvxQWbH2dGcaQ1SLmaTb5O9s=s0"
+            },
+            "headerImage": {
+                "guid": "1c0a78d0-06e9-4dce-ad68-000282ac70d9",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/mMZh3nSO3OimbwKrrSG4-QOYEzcPUwe3RHMTnDVYyfKOowh2JgkABGOWMawz7qv9pfjnLv5o1rPZLE-6oq46EjLX76M=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-1303",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-1303"
+            },
+            "id": "en-SK-A-1303",
+            "objectNumber": "SK-A-1303",
+            "title": "Self Portrait ?",
+            "hasImage": true,
+            "principalOrFirstMaker": "Govert Dircksz. Camphuysen",
+            "longTitle": "Self Portrait ?, Govert Dircksz. Camphuysen, 1660 - 1672",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "d434c1af-5e0f-49c1-9d20-8eb644f91b88",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2218,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/D-8q4FgxU0fe8AMQGWMlCHIhuMU_3YldWskLxxwvSBHthqSHtke660MQ7MeZ5dUUdTOF6Y_MAElD_Tz0EczWlr-hA2vv=s0"
+            },
+            "headerImage": {
+                "guid": "abbd5129-b594-4d55-b1da-359485d7435f",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/SjwCvfEKfTLGIFZZ-Uh9DxjmO_ZuP8jPSzs4XvcL5UoiYfL73D9Q4n6HpdzOgzrdkOF7ari25YP60JvBGWi4zxSCgQ=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-2182",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-2182"
+            },
+            "id": "en-SK-A-2182",
+            "objectNumber": "SK-A-2182",
+            "title": "Portrait of a Man",
+            "hasImage": true,
+            "principalOrFirstMaker": "Pieter Dubordieu",
+            "longTitle": "Portrait of a Man, Pieter Dubordieu, 1638",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "a025343d-ee72-4923-b372-7b847509c071",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2022,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/zT3uEcZn3tc8HIaNEdibpLca0brHLC8a5b6YlLOKv_oCu2pK3PEIJzPp2RXda_Gpr0WQTq4v8s7huHG2z0EIC-5CrCk=s0"
+            },
+            "headerImage": {
+                "guid": "8349307c-f07b-4f6b-9121-2b870b7a1f2b",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/RH0kA-ERCU-v_E2UWVo8rxzw5Cd2oucz6RnIkBLlR8hQm-4ADDr4tA3cexf1zyI3Q3WlVayBGs0q8QXej87hjWcla7s=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-190",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-190"
+            },
+            "id": "en-SK-A-190",
+            "objectNumber": "SK-A-190",
+            "title": "Self-portrait",
+            "hasImage": true,
+            "principalOrFirstMaker": "Karel du Jardin",
+            "longTitle": "Self-portrait, Karel du Jardin, 1662",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "29cd15f0-b4a9-4fa0-8be6-f3cf3979cdb5",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1937,
+                "height": 2550,
+                "url": "https://lh3.googleusercontent.com/oONr3anlQoXcwyO3SrrxkXZc5ORwZRLSny8NokDVXkYH9jcaF45ka2pv7xncvz-6hwfuWSRxTwcWAJAcIwyELHJDCg=s0"
+            },
+            "headerImage": {
+                "guid": "9b8cca06-75fe-41a2-8002-d600d6362812",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/drCBwwC-Vf5pEqcShEI2wL0ooKyqCPsHWY8h2BIbqM0xoWMSK_Zfu6KQngF0bB1vbkyFQm0Ie6zvPGC2SC47Gi_Ttbc=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-3993",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-3993"
+            },
+            "id": "en-SK-A-3993",
+            "objectNumber": "SK-A-3993",
+            "title": "Portrait of a Woman",
+            "hasImage": true,
+            "principalOrFirstMaker": "Giovanni Bellini",
+            "longTitle": "Portrait of a Woman, Giovanni Bellini (circle of), 1450 - 1470",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "fc7d6749-37ef-4c8f-bf0d-e783a9daa02c",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1899,
+                "height": 2436,
+                "url": "https://lh4.ggpht.com/S9ovv7lLWMkzn4P4RAmeaFxHsBoQ7y2q8eeejheYNwz_MmJpPa9gsZ4Nv87WISAO_0H2fARmkgF3-fofassZqc7N89ej=s0"
+            },
+            "headerImage": {
+                "guid": "90f9a818-1309-4e9a-bc25-c679da3556ae",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1919,
+                "height": 460,
+                "url": "https://lh5.ggpht.com/aeOeVl9pJFYGWxvrWhDUujDHvQLtzp7lt47AAkpR8VD2nGefTI4-i328r_9CYo4JAezvYs1S3nJenYz6L3XUQeACFx4=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-191",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-191"
+            },
+            "id": "en-SK-A-191",
+            "objectNumber": "SK-A-191",
+            "title": "Portrait of a Man",
+            "hasImage": true,
+            "principalOrFirstMaker": "Karel du Jardin",
+            "longTitle": "Portrait of a Man, Karel du Jardin, 1670 - 1675",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "8bccf7ad-c04a-4e12-9035-b53a7a596ce6",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2030,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/-sC8EPTIeDPu1h7UYJ1uFBOBx8oRAquSobuR1r2fsgVf4s8M9pNBB7up3TeNPAUieG7igEt4ZdpA7pdbTdES_fI89w1B=s0"
+            },
+            "headerImage": {
+                "guid": "12e7bbe2-732d-4635-814b-53d4ec05b269",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/v9LkAw33ZB1T-oagoHoioUDWOVelopnt5_EEkIMUWlMSORmgpuXGZaMyVMFuErU3KQKDeCOi-PR_nFyoS4gO-feP8Ho=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-181",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-181"
+            },
+            "id": "en-SK-A-181",
+            "objectNumber": "SK-A-181",
+            "title": "Self Portrait?",
+            "hasImage": true,
+            "principalOrFirstMaker": "Pieter de Hooch",
+            "longTitle": "Self Portrait?, Pieter de Hooch (attributed to), 1648 - 1649",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "6777bacf-77ac-45f8-85c8-b5a26c4d1295",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2500,
+                "height": 2332,
+                "url": "https://lh3.googleusercontent.com/G-2Kq--PhOubyfXjS8WFbEnJ3pYkC139uaYvSYh_bruQxl69pT20ulCTLUF6nCUV3yS4fueYpbPHJGmEb45h2eb9kFlnE1qHT7Y4whna=s0"
+            },
+            "headerImage": {
+                "guid": "5477c89e-8ae8-4edb-b228-7da86426f521",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/6Lw6J-ocCxyHthYelPNT7LaI-zGeIoa_QzZ_86C6p0V8s8QbI_KpiXNO_OzgTtCb8hQyB2ypZfA6ILKTdz76l22X7dgVVCNHvq2AzfF6fA=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-1246",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-1246"
+            },
+            "id": "en-SK-A-1246",
+            "objectNumber": "SK-A-1246",
+            "title": "Portrait of a Man",
+            "hasImage": true,
+            "principalOrFirstMaker": "Frans Hals",
+            "longTitle": "Portrait of a Man, Frans Hals, c. 1635",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "649a91f4-ed24-4d8f-a6d6-097a4315fbc0",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2113,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/og9ahhlCfcwNoKdywzd-xg73fk26OynFV3SK8kzGeJ4xLYBJm8HHDpdhsHxNyuG3H0GNJ_VV6S6b1TqPta4J-J5l02jBwtQNkHj9v3vmww=s0"
+            },
+            "headerImage": {
+                "guid": "9650ba42-40b8-4f47-9608-45d9f64f2a0f",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/EZPXZwgUaPnI-12sbq3K_s5Y4sjx_DSy1Oyo9etvRTrb_PEPKQTDQ1wbYRnHcsuNIAcWTRkTIZeHLwhJSulFLRVMoC9_oRWieqg_iiEvMg=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-1291",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-1291"
+            },
+            "id": "en-SK-A-1291",
+            "objectNumber": "SK-A-1291",
+            "title": "Self Portrait",
+            "hasImage": true,
+            "principalOrFirstMaker": "Jan van Haensbergen",
+            "longTitle": "Self Portrait, Jan van Haensbergen, 1660 - 1680",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "759141ea-5ce8-4005-9182-51805ac90a7b",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2414,
+                "height": 2500,
+                "url": "https://lh3.ggpht.com/6RoO12a-JXLJ9OgoL0ffTQ2-FYvAqojqJw2NE1VpqWg13xfo7bj9tbPvUXfMXedaheuryWpkJK4OZPwan4iEZGxybY8=s0"
+            },
+            "headerImage": {
+                "guid": "c947769b-6bbb-4820-bcf2-bf29bc41a54e",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh5.ggpht.com/AwO9y_IYmqVjL7vxFdg_OtfkraLCbuTedXApUZSyLWO2EptEwL_apswj3cZx62pxgvxbNq4UIsJQsOsL0Eo2Wh_9Ni6S=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-1479",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-1479"
+            },
+            "id": "en-SK-A-1479",
+            "objectNumber": "SK-A-1479",
+            "title": "Portrait of an Artist",
+            "hasImage": true,
+            "principalOrFirstMaker": "Gerard van Honthorst",
+            "longTitle": "Portrait of an Artist, Gerard van Honthorst, 1655",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "29adc9a9-c43b-49cb-85be-be343c91bd8e",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1987,
+                "height": 2484,
+                "url": "https://lh3.googleusercontent.com/CLxQtoUPzIwbl9B0fx5-ec9UCMEcxr4liHMqgA4QwQHIo9whOa9Ip_jFaW0HZum9IGW4A-VIDXI0zkj8NVFjnHoNFqxMpOEqS1werhc=s0"
+            },
+            "headerImage": {
+                "guid": "dd9d148a-16eb-401c-ab24-2f0495644b18",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/MznmlOWdW-fmDSUAWFmD9MqNKy8-YQT89fsJ_En-k_rHsPvwJ2Q8oEpTO2L1_Y4Z1JiAH0S9hWkGGHhp9V-k5roVrxi9f288ha5EVFCpXg=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-1607",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-1607"
+            },
+            "id": "en-SK-A-1607",
+            "objectNumber": "SK-A-1607",
+            "title": "Self-Portrait",
+            "hasImage": true,
+            "principalOrFirstMaker": "Hendrik van Limborch",
+            "longTitle": "Self-Portrait, Hendrik van Limborch, 1708",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "97471c3c-287a-4d63-a0d1-c4af53c50ec9",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2021,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/4gLbyBtCMZT7fafc-zIuWCQ9NDwXXbp7u5i0mXbeX0-WWrqjK4FV9GXSCJkKOl8NIY4gKSKJb2UiEQVr-Ts-XxDQcw=s0"
+            },
+            "headerImage": {
+                "guid": "a2a258d0-7fea-42d1-ab38-445110508b0b",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/qzbY08EN9UQ1hDXh6X8H8ZtofXtSV5SvxbZdWvIS18E35IoHQeDZIgGZLgE81dArvytHayqqcwoINOu9XIMnXX16lg=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-1841",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-1841"
+            },
+            "id": "en-SK-A-1841",
+            "objectNumber": "SK-A-1841",
+            "title": "Portrait of a Man",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Portrait of a Man, anonymous, 1597",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "402f9ae4-06f0-4cfc-b619-76d21c5a19b7",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2034,
+                "height": 2634,
+                "url": "https://lh3.ggpht.com/ryc8VWONYG6AQWS4ifBC32kwnfORU9dBZLu_L_gAUuUl_xM2iIw27vWEpqubPAZWHZxv1yyZEnwmRz4IQfDa_UwJgB1x=s0"
+            },
+            "headerImage": {
+                "guid": "89daf909-1229-46c5-9c72-796d84ccaa0b",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh6.ggpht.com/APY0RXbQqT100Nij9SbVqKXKYqIPKdEGUTpqHWNbxtaAX3TsgwyC5w-8cShB6yqOFyc9EgR__9Ti8Ee1t5UqJP69XHxf=s0"
+            },
+            "productionPlaces": [
+                "Holland"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-3493",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-3493"
+            },
+            "id": "en-SK-A-3493",
+            "objectNumber": "SK-A-3493",
+            "title": "Portrait of a Man",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Portrait of a Man, anonymous, 1630 - 1650",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "c0a44486-bb6f-443c-82f7-bf89f1345277",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2512,
+                "height": 3000,
+                "url": "https://lh3.googleusercontent.com/ITbOljvVjlF6Q_70z_mQB5GWZMQRTpGQwRXwXUAGwPKJ-fY_CAPMbAhsBM9sZ3--aHKLcVAk1fKnAH_hXTRfWODiO5I=s0"
+            },
+            "headerImage": {
+                "guid": "748de63c-6bd4-4ac1-b12b-b4c145c6cd45",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/sWJPisNI0T7hv7ApQ2c7M7bJ3mCJnS_WULZ5cyEAiec057C0OxZCuAxSKIGqlDZKJkzQ28Ksrdc9NItmRuXbXbBNQbas=s0"
+            },
+            "productionPlaces": [
+                "Northern Netherlands"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-176",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-176"
+            },
+            "id": "en-SK-A-176",
+            "objectNumber": "SK-A-176",
+            "title": "Portrait of an Officer",
+            "hasImage": true,
+            "principalOrFirstMaker": "Gerard van Honthorst",
+            "longTitle": "Portrait of an Officer, Gerard van Honthorst, 1644",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "c41c87bb-7c14-4233-bb07-28455d96d153",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2021,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/9FAjRS5rVX0UIdXiCiZuGHOYBqB4xdNs-3k3atQ6j3R5p5ghxcFKXLWVgiiDE8t244m6C2zhjnd7lD7r_3kkRnJdMEUECxrp6KHTLgQ=s0"
+            },
+            "headerImage": {
+                "guid": "064ebeee-617a-46e3-914e-09e703a7c144",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/8erudeoC0CLvG3XzWs3FDY1o7QaN34N2jOFC44lxgqwtJ2wfbIoPtJliMhKSM1PqfsxQw-a_XoyNQ8GwFYnelpaYVGuS8lLXbbk76j0=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-1247",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-1247"
+            },
+            "id": "en-SK-A-1247",
+            "objectNumber": "SK-A-1247",
+            "title": "Portrait of a Woman",
+            "hasImage": true,
+            "principalOrFirstMaker": "Frans Hals",
+            "longTitle": "Portrait of a Woman, Frans Hals, c. 1635",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "898f8841-86c4-48dc-af85-8dd05f5b1637",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2168,
+                "height": 2688,
+                "url": "https://lh3.googleusercontent.com/k8whv6UpR3jyb7bRrQ5kWXZ_kDtJRsibDPccIaw7IJIcgweBt9nDG7njJDsARrP95Q4hmV_hhqN1QI9s2Xe-WSWApawzKM8LXCrcxD4=s0"
+            },
+            "headerImage": {
+                "guid": "5bf73bca-906c-4602-b736-9d15969850e1",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/EhsAVTfu3Ig12UpylM9HgAfyVg-TayX-Ya5RFX0ZuD9fGgpmLO1ExGiHyjVhuWXF4jIVXryYyoI6QR7VHQj_oFwwmrhbUrDFbAQswvk=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-1440",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-1440"
+            },
+            "id": "en-SK-A-1440",
+            "objectNumber": "SK-A-1440",
+            "title": "Portrait of a Woman",
+            "hasImage": true,
+            "principalOrFirstMaker": "Jan van Haensbergen",
+            "longTitle": "Portrait of a Woman, Jan van Haensbergen (attributed to), 1670 - 1700",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "ee51ecef-a4a8-4046-9fa8-3c8d49520c72",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2028,
+                "height": 2500,
+                "url": "https://lh5.ggpht.com/DMt3HIQWGesgU0ES1X7a1xCIRER_6u9Z1RD0lzrcYZW_MXHy940oZYC9erq39V47_I_dqnFDLjFTWEIOTTi80oicGw=s0"
+            },
+            "headerImage": {
+                "guid": "b81e30af-88af-431a-8fa2-cf8bd43ef945",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh6.ggpht.com/JnmfS8ZSeygh3bgbOXTzuCOeB62EZ0GsvlZYxOrPv6QXDribQhHge_FKS0S4NRIZuFocYyVPceBdP1-erY-q4yMIBXs=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-1622",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-1622"
+            },
+            "id": "en-SK-A-1622",
+            "objectNumber": "SK-A-1622",
+            "title": "Self Portrait",
+            "hasImage": true,
+            "principalOrFirstMaker": "Adriaen Hanneman",
+            "longTitle": "Self Portrait, Adriaen Hanneman, 1656",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "e9919206-bf1f-4540-ab85-6bd8b4ca48cc",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1993,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/Utmm3npo9C5Ezf3DYDgxWSkQGYQkOleBESRE9RDHy_CfTl6NLJlkjKAuQxLZbNodj1DokzmX6sNqX8Xb6X9ASjDyc0M=s0"
+            },
+            "headerImage": {
+                "guid": "a0593373-b2cb-467e-9755-b425d7869c50",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/td7KTUA2kgZgC1ohZBvvTssgwP9U48g6JjsPJQ_76FqUSmQldqY5lyw5b8lAAG7rL-c6rIMwJtjTh8k5ZQXG48pgBQ=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-C-289",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-C-289"
+            },
+            "id": "en-SK-C-289",
+            "objectNumber": "SK-C-289",
+            "title": "Portrait of a Man",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Portrait of a Man, anonymous, c. 1650",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "f092aef3-8a80-471c-a4d9-00aa9e22b027",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1953,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/pU_eCkjjh2IVKHGCgxzDTH-79GfE7tRrp1PcUx13FKn563TmOVv8TUH5AyiT9_AD2F6LCDY9Lua9D-gtng8Bdbfi4NXm=s0"
+            },
+            "headerImage": {
+                "guid": "e6fce7d0-2fd2-4800-a290-348f47a53063",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/yl1mSZKEK-lomkDqbQB__uoRdYgWTkGLRBB98Q55IIpHPOsNVCmhUnedZGrjS1pBFxSCyhTjIjO1lqCkX-cOvU62904_=s0"
+            },
+            "productionPlaces": [
+                "Holland"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-4755",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-4755"
+            },
+            "id": "en-SK-A-4755",
+            "objectNumber": "SK-A-4755",
+            "title": "Portrait of a Man",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Portrait of a Man, anonymous, c. 1550 - c. 1560",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "c478ef63-8979-4859-b73b-a9bb292426db",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1668,
+                "height": 2046,
+                "url": "https://lh5.ggpht.com/RkQ6N-ClnbCJlJ81aCshn-ZXNjlGBQ9h2cyCTFC1f0N7txVXEt9dh0K-f49qNUwiqpq1DL9lOrzVk-mUYV8EHAO2qM8=s0"
+            },
+            "headerImage": {
+                "guid": "c5517892-3c33-4b32-9413-2d0c03f72726",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh4.ggpht.com/iL-NlZhcq_bEeLhwADy4JznlaPgeX7I6vSyXjuVeQ4CWeHVT06SkrJfO4JG-R6R1NdwAPWDk2pDtFANG86VhMEcQ70c=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-1480",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-1480"
+            },
+            "id": "en-SK-A-1480",
+            "objectNumber": "SK-A-1480",
+            "title": "Portrait of a Woman",
+            "hasImage": true,
+            "principalOrFirstMaker": "Gerard van Honthorst",
+            "longTitle": "Portrait of a Woman, Gerard van Honthorst, 1655",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "174d73f3-ee9f-4942-911a-556aa199388d",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2012,
+                "height": 2528,
+                "url": "https://lh3.googleusercontent.com/FgLoik3zWgavW_JosxdH9qDNiCgNpcrcpBj1H5YdXVtHm9CGdUBq13dpEgeCgOsTTMbuvhUZONmHZe2fb4iSMiSTlMqh3yhtW798GILq=s0"
+            },
+            "headerImage": {
+                "guid": "efe13220-3034-4135-9d54-0fee81c39027",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/HWJ0lVKbQoqzvUv-95KDDr5qgXjOnD5mlPP5tyWuYuGANu4sOB1UzAwQ5sbr4lB9a4-Mtx9zxCn5AcUUCjxAUbcUTCemWQqKQfXgRnc=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-4190",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-4190"
+            },
+            "id": "en-SK-A-4190",
+            "objectNumber": "SK-A-4190",
+            "title": "Portrait of an Officer",
+            "hasImage": true,
+            "principalOrFirstMaker": "Wybrand de Geest (I)",
+            "longTitle": "Portrait of an Officer, Wybrand de Geest (I), c. 1625 - c. 1635",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "ee8c2a55-d6cb-4188-a2a2-863dfa2e1965",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2220,
+                "height": 2586,
+                "url": "https://lh3.googleusercontent.com/z45Mw_F1Kvz2zx2_3wErd-JQBfEgS4jVWzRqffy-HMhbMt78Ihr_BGSgdTyjZ0EDIE4qMI7FaFU5qbgW3xi96aeiRHVq5QxBR79RC5dmmw=s0"
+            },
+            "headerImage": {
+                "guid": "7e4384a0-4442-4045-a88d-357303d3dd56",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/x3b-qXQm9KcKGnYcCuc8XCliDNvNkmyRQGgL5qYPvlOH3Ou0SB-G7k1_6bioK0RGm3G76bXSO0vVsmIKtaoZ4aLcVnb2EQ7rXwKF5v1r=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-1047",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-1047"
+            },
+            "id": "en-SK-A-1047",
+            "objectNumber": "SK-A-1047",
+            "title": "Self-portrait",
+            "hasImage": true,
+            "principalOrFirstMaker": "Charles Howard Hodges",
+            "longTitle": "Self-portrait, Charles Howard Hodges, c. 1825 - c. 1830",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "3c39fb56-c8dc-4e3c-ba1d-2d4f49918421",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2053,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/zZpUH4taS5FxrHLphINXyH8C9RTo2Kg94Qbqlh7xGR0YpQXRML4LY2BLm-gP2zRsptxnGXPI6FFt1uhoTmykZVrF6BaG=s0"
+            },
+            "headerImage": {
+                "guid": "9b90ab46-ed83-4b68-b836-f5dec07a77fb",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/953viiEbC77Axzh6EBESp0MUAZyKRnUM-se1JnTLQyDyjdkEE9U7Xe40vk5S22n-hnlIH45tt6MAxGwC0brh1CZmO5k=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-2396",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-2396"
+            },
+            "id": "en-SK-A-2396",
+            "objectNumber": "SK-A-2396",
+            "title": "Self Portrait",
+            "hasImage": true,
+            "principalOrFirstMaker": "Adriaen Brouwer, Jan Davidsz. de Heem",
+            "longTitle": "Self Portrait, Adriaen Brouwer (circle of), Jan Davidsz. de Heem (rejected attribution), 1630 - 1650",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "eedc4e65-43a4-433a-8986-2d4d3b1ca17e",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1963,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/S1OU6wbMgNEZgkdWGxy6CvC1I3eg_HqKKvwrU5xLObLOaQ3yLRkeFMSy5yahlqOWe59us-cFOM92HouLDYgzGKlMhGs=s0"
+            },
+            "headerImage": {
+                "guid": "f5fb5a4d-89f5-4169-8e62-712c6d19eaae",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/JXpwjdZlMEut-DF2vTzsTWBYtYDhkiJ0ShLdK3GqT9LYGLYDyx2gq4l5BPk3EIapZhWI8YaXht-zhtqf_ArpriY-9pa0=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-3931",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-3931"
+            },
+            "id": "en-SK-A-3931",
+            "objectNumber": "SK-A-3931",
+            "title": "Portrait of a Man",
+            "hasImage": true,
+            "principalOrFirstMaker": "François André Vincent",
+            "longTitle": "Portrait of a Man, François André Vincent, c. 1795",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "e021d95e-5cc0-4055-a489-4c573400fa3a",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1903,
+                "height": 2500,
+                "url": "https://lh3.ggpht.com/jy1Cu9TmEvVQfjPmYxzJoR4_3RGfvQL2TI7oNTgemFmLtANZd9O3beYNjH9zoU8y1-wMDz1G2qoJMFJAncEEaU8GYXg=s0"
+            },
+            "headerImage": {
+                "guid": "0f835fde-5fb2-4806-9b96-c3d2a63ae2ac",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1903,
+                "height": 456,
+                "url": "https://lh5.ggpht.com/dRDjtLNgXZEHGfmFVuxouhO_1ECsthMzcm39yvKfRIqrNjylxlfMuJKU3N_fioiOxg9M0MetNTfibgAcjk4L-92H7Frw=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-2157",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-2157"
+            },
+            "id": "en-SK-A-2157",
+            "objectNumber": "SK-A-2157",
+            "title": "Self-Portrait",
+            "hasImage": true,
+            "principalOrFirstMaker": "Abraham de Vries",
+            "longTitle": "Self-Portrait, Abraham de Vries, 1621",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "d91e8992-5cd0-4390-9d57-ae86bd20c513",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2422,
+                "height": 3000,
+                "url": "https://lh3.googleusercontent.com/caB27oGZO_Q-TMN3yRDiAehlWyntw79BXu-dSb3AV-xkL1XuvgjVgZpHH5TRhyB87wsHm1Y7irCWRvSn7pe3ezwA3LJlwQ7Y75THCvJF=s0"
+            },
+            "headerImage": {
+                "guid": "10e58e10-e55a-4d1b-8a12-4a4346917df8",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/02mflhY8n3mdtpi_XN0pttjaxzrh4sVTyMk6thr13hrsk5O3BW1xBvAIl-exlySlCX_3kXb1rTcw2Tixp-iGb4KcAJvM9DOAduGlCTxT=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-1641",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-1641"
+            },
+            "id": "en-SK-A-1641",
+            "objectNumber": "SK-A-1641",
+            "title": "Portrait of a Captain",
+            "hasImage": true,
+            "principalOrFirstMaker": "Nicolaas Wieringa",
+            "longTitle": "Portrait of a Captain, Nicolaas Wieringa, 1668",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "01cf777c-8a70-452f-961f-3a1b9fa05276",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2005,
+                "height": 2500,
+                "url": "https://lh6.ggpht.com/C5T1uAcMGFba_t_F0nAOPjKikyQIUFZDRdk_YnKHczeSQgWw2VgB0c-b-8BO2mPcH8d0LW2soZauxaJWIY01psFeOA=s0"
+            },
+            "headerImage": {
+                "guid": "5dd6f473-5ab9-4fcc-a39c-6ee48054b79f",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.ggpht.com/8EXyBK3mx6rUf5QTAA4V7dM2jz14EwtMrZWr_GqbA-0NolkrqlYVorfvOUCx1WVJrZ0zpSNd_eo2lIbdDi6Z5EItcg=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-1343",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-1343"
+            },
+            "id": "en-SK-A-1343",
+            "objectNumber": "SK-A-1343",
+            "title": "Portrait of a Woman",
+            "hasImage": true,
+            "principalOrFirstMaker": "Hendrick Cornelisz van Vliet",
+            "longTitle": "Portrait of a Woman, Hendrick Cornelisz van Vliet (attributed to), 1663",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "893a96a4-77a1-4c4e-bd67-7c24591385bb",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2042,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/-5EBYC0iHesgi8c70dvBoQZv4tDBNkgevYA7jlbtbuS7-icVWIlm1_9bOHKwNEekziicivfyuBHn3AwrS9JMA1d1eT0=s0"
+            },
+            "headerImage": {
+                "guid": "db7b81ee-d0fa-4e31-be02-e742c1c6cbd3",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/hNfwn6XahwUN_NcaVjUqbl6dR8EtD8SBxWadjY_KjaN1x22bRZy6PgM7B5qQuJLux6CYWSVqVcdyzcS05anBRFVUHB0c=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-1914",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-1914"
+            },
+            "id": "en-SK-A-1914",
+            "objectNumber": "SK-A-1914",
+            "title": "Portrait of a Man",
+            "hasImage": true,
+            "principalOrFirstMaker": "Arnold Boonen",
+            "longTitle": "Portrait of a Man, Arnold Boonen (attributed to), 1690 - 1729",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "7a30b7ab-3aca-47b1-9111-9235b370e530",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2106,
+                "height": 2500,
+                "url": "https://lh3.ggpht.com/qnuX4W6x-QHn0pDh-wBS5zfImuIHlLwK6dMzDslWaAk-VFk2aUpQgegvCVdwKyAdxW6hRYvJAYPEglCyzmH8gO5R58SI=s0"
+            },
+            "headerImage": {
+                "guid": "1cf94547-3df9-4ab8-a1b3-5f0b29993cf9",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh4.ggpht.com/lCPnUHti7ZwHdmyZa4Q-zgv-T3ss2VqJJJKPmH6SNKW8a8zz3l2MB8gidPzkpt7XfzEgBbZl_1GctoxH1ZD8Yi_UWMI=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-3352",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-3352"
+            },
+            "id": "en-SK-A-3352",
+            "objectNumber": "SK-A-3352",
+            "title": "Portrait of a Man",
+            "hasImage": true,
+            "principalOrFirstMaker": "Johannes Cornelisz. Verspronck",
+            "longTitle": "Portrait of a Man, Johannes Cornelisz. Verspronck, 1646",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "0c723b68-4af3-45f0-b478-35df8c1243a0",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2083,
+                "height": 2730,
+                "url": "https://lh3.googleusercontent.com/xqLqjYMVOpc_c5fCuRTsPhX7sUEIRJ8die_zVFAdaXRxQPv2nOq0w9XCr3Hng2nJlJNQ7xhDyXt6dfmb3NAzuwQP5ic=s0"
+            },
+            "headerImage": {
+                "guid": "49ff929c-5a2e-4047-b89e-d94f1550d91c",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/EmBXyj0Vw9S-67by9g3bzFkHUfb2VrgzwmXUHTuvtnxHS6ngWJ5nRVF2RVVDwqm-Q2WjZo8JUL9erxhpYNmKgsafT15n=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-42",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-42"
+            },
+            "id": "en-SK-A-42",
+            "objectNumber": "SK-A-42",
+            "title": "Self Portrait",
+            "hasImage": true,
+            "principalOrFirstMaker": "Ferdinand Bol",
+            "longTitle": "Self Portrait, Ferdinand Bol, c. 1669",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "e487b919-a276-4a73-af17-8adfc223b025",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2409,
+                "height": 3000,
+                "url": "https://lh3.googleusercontent.com/w19M6O2curllx8zjAGLKxJYD3IAcEiwd4QewWgRk1LTJbmQqwNQ6b06LOQcksjbzHlN6m41cKskkOUo5uR6KfxuXPVI=s0"
+            },
+            "headerImage": {
+                "guid": "19fedad6-c663-4d5d-8c05-d8f0e6683c45",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2409,
+                "height": 578,
+                "url": "https://lh3.googleusercontent.com/qM7A3i-MIfwh_11A7wq11yQmJluJ-6ZEdgEjKCrSlpFrT87VK4wpGMCL_H5F5WQeaNh3KPF1x0dXeKdgf7J8VEF1Zw=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-3301",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-3301"
+            },
+            "id": "en-SK-A-3301",
+            "objectNumber": "SK-A-3301",
+            "title": "Portrait of a Woman",
+            "hasImage": true,
+            "principalOrFirstMaker": "Hendrik Gerritsz. Pot",
+            "longTitle": "Portrait of a Woman, Hendrik Gerritsz. Pot (attributed to), 1638",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "fc07b6ba-3252-4da2-93bc-94a6f318aebe",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2065,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/hGgjWEsqLVvRrQcuCpP9WtKDACDiYgu957zVGYUpQ6460x-BjSV-sRqrgB2G--DAHWl5TT4GzZ2jGzBk1u7ZETdrRUKiLEALqZ8jDks=s0"
+            },
+            "headerImage": {
+                "guid": "d93f684f-ce82-44cb-b5dd-d96005fd2605",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/EkGsGJf4k4dIpIOgZhPB6o1Ste38YoLDSP5owBgmNt1TtNmqCnEw_c-IlWJQ-ppDQ8UD0r2IMNXVmsv6jJA95jvv2e_D-ydTvqfYDXI=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-3386",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-3386"
+            },
+            "id": "en-SK-A-3386",
+            "objectNumber": "SK-A-3386",
+            "title": "Portrait of a Painter",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Portrait of a Painter, anonymous, 1700 - 1799",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "522ffd18-675f-4439-9bb7-548f2ceacd79",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1868,
+                "height": 2560,
+                "url": "https://lh3.ggpht.com/OnwBlSs1m4a2uHRwE29ypE2xfU4ovde0Mv8tykH5SSud9MT9EMlbPbathttElk5RtWB4KxgvjRaOLMfD9eFxX9DPxOU=s0"
+            },
+            "headerImage": {
+                "guid": "bd617cac-03d2-4dd8-902a-99620a55099a",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.ggpht.com/8VWHiZUxOS0L6wcx1QseszF9EayRrcuYF0bgU4pF0AG4-dhRQ1p-d-af--Fpdw24FCj_pUbMah-YgUrrFVjjL2vTRA=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-1406",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-1406"
+            },
+            "id": "en-SK-A-1406",
+            "objectNumber": "SK-A-1406",
+            "title": "Self-Portrait",
+            "hasImage": true,
+            "principalOrFirstMaker": "Louis Meijer",
+            "longTitle": "Self-Portrait, Louis Meijer, 1838",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "b6e38020-55b6-4b71-b1f6-912991d79e3a",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2231,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/pzyLe6x2eDtQ3XeUAET-IrQXzMoYrv6YsI6kGYDQAF4Na-x3jmQgowXi6yP70w6obPny9vez2BNDIIR0d4omdJrN96SY=s0"
+            },
+            "headerImage": {
+                "guid": "8217fdaa-4ea0-4456-b88c-f6bea29dbe1a",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/vSohzuaTsQ7uxygFNq__GYtsl2jnT8GaZXisCoYWmGCvC0PRW80Q71ij1vUcSzVaz_eYtImDZFq0FK2f3LrQWa6Dorc=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-3279",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-3279"
+            },
+            "id": "en-SK-A-3279",
+            "objectNumber": "SK-A-3279",
+            "title": "Portrait of a Woman",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Portrait of a Woman, anonymous, 1740 - 1760",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "ced380f2-d81d-4303-98ff-b3b403e6ef84",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1947,
+                "height": 2604,
+                "url": "https://lh4.ggpht.com/l15ourjkbac7VE9x9tGTwzO6u7xgFzf1iYteezt6A9vjMo1rdowXwEu4lXCNBPTaEhTOE1uWjtf8z6ullnY2RDxlJg=s0"
+            },
+            "headerImage": {
+                "guid": "7b7279ae-59c0-420b-a0e7-ddc03ed5d75a",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh5.ggpht.com/kayAE48-sOGJ9-G21bDgkfcu_MHNHFNc-cukMgXi16Z7kFKpf28suBXTQVlH7tCbpeGEzPCtHr5yyGFrF1pWV3jjjyc=s0"
+            },
+            "productionPlaces": [
+                "France"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-1041",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-1041"
+            },
+            "id": "en-SK-A-1041",
+            "objectNumber": "SK-A-1041",
+            "title": "Self Portrait",
+            "hasImage": true,
+            "principalOrFirstMaker": "Pierre Van Hanselaere",
+            "longTitle": "Self Portrait, Pierre Van Hanselaere, 1824",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "5e3d6753-0d37-4a13-8a4f-c86096e6e599",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1924,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/xovmTocEdlnlmym_JDAyM2hduxDxsoz8vun43fs72TTPSuBBVbQ6O8aZuVNmXu_eKLgp7J5sgsUSmeME7z79mR55NOEi=s0"
+            },
+            "headerImage": {
+                "guid": "47edb4cd-0abd-4901-9240-a364a1352e7e",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/cgFQD0pYIo8iiixWE-qw--j3zpeXeqv4nT0gnBxMwlY2VjGwDjUvk76X49GKUpNiwzQygohyZ0Ft2qBSvhG_o5FEj1w=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-165",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-165"
+            },
+            "id": "en-SK-A-165",
+            "objectNumber": "SK-A-165",
+            "title": "Portrait of a Man",
+            "hasImage": true,
+            "principalOrFirstMaker": "Joos van Cleve",
+            "longTitle": "Portrait of a Man, Joos van Cleve (workshop of), c. 1520 - c. 1530",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "968ff957-06ea-481d-8725-9ad2c0b107cb",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2268,
+                "height": 2478,
+                "url": "https://lh3.googleusercontent.com/PlqY275n6vv0Id4cD4k9Yh61Oe8tv7hmZ7U5uV-YWqlfA53WyXRViatVJgxZiWTbhDe02cRv7Lzi6OfllON9WDfM4w=s0"
+            },
+            "headerImage": {
+                "guid": "2062af37-874b-4d03-8fee-e6dd17b78eeb",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/zUT76L2qclAlzIXe72Nwvq224DGq39Z3mT7H1YDtgk2NLWJYwVo6oaMpsqDN171ZmK9GC2HUfVdOuMVNELQLPNeLyKw=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-636",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-636"
+            },
+            "id": "en-SK-A-636",
+            "objectNumber": "SK-A-636",
+            "title": "Portrait of a Woman",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Portrait of a Woman, anonymous, c. 1590",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "0f2c2328-cb24-49eb-8c69-b14a842b2c03",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 3612,
+                "height": 4708,
+                "url": "https://lh3.googleusercontent.com/9or6Tf89NrzasLA4woLSB6vIaiQ8LIhnOLcADhmGV3lG0YsvkD_D3suMauGy5rMmmL01o6AknjiYipgLec9TQVzD-4k=s0"
+            },
+            "headerImage": {
+                "guid": "c0b87984-093c-47c4-994d-ddb63398d53c",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/upf9FXzJsVlSOd3WN0JxQ8g5Z3HZ3TR30oW7k-LlOT5U_rL0GX3m6CWSjld6atvgQevuYfORIn8JOMyi2LtA4P_2cAM=s0"
+            },
+            "productionPlaces": [
+                "Northern Netherlands"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-1126",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-1126"
+            },
+            "id": "en-SK-A-1126",
+            "objectNumber": "SK-A-1126",
+            "title": "Self-Portrait",
+            "hasImage": true,
+            "principalOrFirstMaker": "Charles Saligo",
+            "longTitle": "Self-Portrait, Charles Saligo, 1824 - 1826",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "a3b6df31-e84a-4991-9828-5bd98070f74a",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1967,
+                "height": 2500,
+                "url": "https://lh5.ggpht.com/-VzEwwzI67qa29mTOTGt9psYqrvZj3me0w4WOECRwplcDNE8kjGBsyeJikidUaO3FFl8GQgtQQf19tSmQDVecnuSaOY=s0"
+            },
+            "headerImage": {
+                "guid": "3b27b620-1064-4e0c-903f-a1922bcf8e4c",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh5.ggpht.com/ex96xaCOXvTWvyJtvNQoLhm9YvJOxkwkQTmAHL6H2R0KVvJgEL7VEVdkt68MNULrkvoa29aQIhGoR9VzWqjS9rYATro-=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-1442",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-1442"
+            },
+            "id": "en-SK-A-1442",
+            "objectNumber": "SK-A-1442",
+            "title": "Portrait of a Woman",
+            "hasImage": true,
+            "principalOrFirstMaker": "Balthasar Denner",
+            "longTitle": "Portrait of a Woman, Balthasar Denner, 1731",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "378b412b-26af-4f00-9c15-698d0b8e2e2c",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2048,
+                "height": 2500,
+                "url": "https://lh4.ggpht.com/GBD4A3XJ1Tx9uXqOzf7cP6TARuWU6ise7sKyQVYC3aaQXLZsxDWj4nawsFre4QLgjr-f0FR9XJBuhHJt6-oX81upay5z=s0"
+            },
+            "headerImage": {
+                "guid": "fe5cc1bb-5712-4cde-8fbd-fa155a556097",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh5.ggpht.com/3degiYwdN8EXcSgMozgw0Sg1gh9oAkpl4Y5qRqS4ExP1kWklYnxTsQMdTKjbRteS-J17gxnetNb7V-XfzOZmUXDgRio=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-1596",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-1596"
+            },
+            "id": "en-SK-A-1596",
+            "objectNumber": "SK-A-1596",
+            "title": "Portrait of a Woman",
+            "hasImage": true,
+            "principalOrFirstMaker": "Jan van Bijlert",
+            "longTitle": "Portrait of a Woman, Jan van Bijlert, c. 1650",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "90222685-8aeb-4ba5-bfba-13cccbb6de43",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2142,
+                "height": 2640,
+                "url": "https://lh3.googleusercontent.com/vBQt4HH49VoW6VHhxNBlVw-e-8txubSXjUddZdlLK5nVckLjgi2FMPQ4HhtdjU73mzztUU4aKBbSpqRJTkCxKpJAXyFxBrwReVC8DkyL=s0"
+            },
+            "headerImage": {
+                "guid": "1a257c84-47bd-439a-bf22-3889a99bf58d",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/b0Lv7bmeTms0YN2ff82DZc-NmJMtDfxxwyQH3LSlJNmHQwXW42-laAAjKJCB4Ju-Jl9sv7TIR-Xvy2DMziXMSlnnseKDMp3bQQDRY_g=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-2531",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-2531"
+            },
+            "id": "en-SK-A-2531",
+            "objectNumber": "SK-A-2531",
+            "title": "Portrait of a Woman",
+            "hasImage": true,
+            "principalOrFirstMaker": "Hendrick Cornelisz van Vliet",
+            "longTitle": "Portrait of a Woman, Hendrick Cornelisz van Vliet, 1650",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "0dfb41d3-fb4a-48e8-bb5b-bba5aa8d245a",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2062,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/N4DYmsdVBIBJr0_13oG7J0FL0GpmcyG21Kis3aS4UXUs7medpqAvRWMmSL7CGFYF2_76L5D3DJtY37o-Ow_H7cNGdeY=s0"
+            },
+            "headerImage": {
+                "guid": "e60df6e7-62ad-459d-bc1d-e3c2cdf151db",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/LguVdX_oYDlUEf03myGKAAjhv4GgbCc_IF_rmVOjjy7KkP6uZfyEQ383cr1CIxaLwz0JwA-X8rOf4J-EqaknIf0G1vs=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-2268",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-2268"
+            },
+            "id": "en-SK-A-2268",
+            "objectNumber": "SK-A-2268",
+            "title": "Portrait of a Woman",
+            "hasImage": true,
+            "principalOrFirstMaker": "Charles Howard Hodges",
+            "longTitle": "Portrait of a Woman, Charles Howard Hodges, c. 1812 - c. 1813",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "d43b38ff-40d5-4309-9fdf-fcdcf7b99c4c",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2091,
+                "height": 2586,
+                "url": "https://lh3.ggpht.com/KNQ_NsGH_pDJF6sxpU-Rukru7n-cWMO2-oMD69LDgV5P48DMaV2W2hJ_RMbl0SgbxDNm90_JdNTQUk4l1qenZ4y2vdc=s0"
+            },
+            "headerImage": {
+                "guid": "35d0a828-b44a-42fa-b778-da3933efa73f",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh4.ggpht.com/RqF_JZr_pjRN7VRDSlBETDSIv5HdTSFh-J1xnbypTsKUulW566IQKLaicRv8MK4Otx6u1bcSZ1VY2OtO1clRpn4OLNOF=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-4998",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-4998"
+            },
+            "id": "en-SK-A-4998",
+            "objectNumber": "SK-A-4998",
+            "title": "Portrait of Adriana Croes",
+            "hasImage": true,
+            "principalOrFirstMaker": "Johannes Cornelisz. Verspronck",
+            "longTitle": "Portrait of Adriana Croes, Johannes Cornelisz. Verspronck, 1644",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "ce1e16d7-2486-47cc-a7ee-598ad7807e67",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 3835,
+                "height": 4708,
+                "url": "https://lh3.googleusercontent.com/QBGuGRRfNKBVKmw-EyaxhREhugHM-rwuARfbaG3bSyLhXyaQd-NJJWJC6krXh_c2Ea5E1USBcgYGJSmmlhquwkE8lbOe=s0"
+            },
+            "headerImage": {
+                "guid": "abcc48b8-81b2-4333-bd25-7ace0152585f",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/guszNj_DxkOtR5Pd397tLmWjYZefA9ueCot4mZx1RP-PDpCyTClE8LNep55g_e8KcxViz3ipTY7tR-LS-h_ol7uFNfQ=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-5008",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-5008"
+            },
+            "id": "en-SK-A-5008",
+            "objectNumber": "SK-A-5008",
+            "title": "Portrait of Jan van Huysum",
+            "hasImage": true,
+            "principalOrFirstMaker": "Arnold Boonen",
+            "longTitle": "Portrait of Jan van Huysum, Arnold Boonen, c. 1720",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "e03e5e16-a958-4475-b72c-bf72ee7a18a1",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2096,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/zjPmEcPC1KFd7nrkek7rYrRQepPyTu7AFf1JqeMiJ6m-AkOYCVHjpDr9SmmHDHdgJ1gN2gPQO18sR-lntTAOaST5EQ=s0"
+            },
+            "headerImage": {
+                "guid": "c5200f3d-eba4-4883-8944-153f15d0fb36",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/8tbfPZ8lQbbSp_fyhhtmDBEDtJdEn5OAv7qU0fR4w9D2kdCNk1wunCk-Y_irrkbrkLgTLzcg4dF6ADycmdUsGdLrxQ=s0"
+            },
+            "productionPlaces": [
+                "Northern Netherlands"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-C-1652",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-C-1652"
+            },
+            "id": "en-SK-C-1652",
+            "objectNumber": "SK-C-1652",
+            "title": "Portrait of Jacob Willemsz. de Vos",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Portrait of Jacob Willemsz. de Vos, anonymous, c. 1795",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "2eba2125-5f58-46e9-bcb0-723b9c2bdd8d",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2141,
+                "height": 2594,
+                "url": "https://lh6.ggpht.com/LRFUn5gJkU0a6LRGZ-f93nM9FH9g_Kxj9isqeDE9PBUXvr8D3Epju0VTfmfWBEGtxIJh9z3W8YSSbNNc8V1EL1ni-jA=s0"
+            },
+            "headerImage": {
+                "guid": "bd5aeee4-8a77-431d-80cf-036aeb6eca47",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh5.ggpht.com/ZDWB7l3zFHgF-LCXbfnJ6OCRnnHIW2C8Fs7iIAJdG-lwhP2PNDa3htgilEHaYiE1ukia9B0OUyuYBmaCkyu9d-q1LQ=s0"
+            },
+            "productionPlaces": [
+                "Low Countries"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-C-1477",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-C-1477"
+            },
+            "id": "en-SK-C-1477",
+            "objectNumber": "SK-C-1477",
+            "title": "Portrait of a Young Lady",
+            "hasImage": true,
+            "principalOrFirstMaker": "Isaack Luttichuys",
+            "longTitle": "Portrait of a Young Lady, Isaack Luttichuys, 1656",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "f31c426f-7426-423e-953d-169c2ec7f112",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2069,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/93f1awFxXgiS58gOIieIMatd49lMiu3j90hyAT_DtmuO9I7NtYsM-Tp9UnfYDIl-3KhiToV3O9CheiIv0CVAhXV5KDGd=s0"
+            },
+            "headerImage": {
+                "guid": "1e4b9554-8db1-4243-9de3-70c698e282b5",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/wMg4bLYIneW9LVAEP-3KwprYQnEc8dia9MDAsDIiRVyltw1Tpu4IbMmB8ScW4gjtDC_DWMairpLIiHHcITExETYOuqI=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-2841",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-2841"
+            },
+            "id": "en-SK-A-2841",
+            "objectNumber": "SK-A-2841",
+            "title": "Portrait of an Old Man",
+            "hasImage": true,
+            "principalOrFirstMaker": "Simon Kick",
+            "longTitle": "Portrait of an Old Man, Simon Kick, 1639",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "93f639c0-a354-4e1f-9d8f-f5d1b8df47d5",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2102,
+                "height": 2500,
+                "url": "https://lh5.ggpht.com/BKLoMMUpMeJ_nkqarlgeSU0y0W9zmS4Zk0KBWdt0ECJlCvx34eOZwjSESiFlJPCm8Tz2nP5EoHqOpj4DtY6Wr2OvWQ=s0"
+            },
+            "headerImage": {
+                "guid": "24560a53-2b05-4b09-8955-f7358c2f1e5b",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.ggpht.com/-9v2YVpYIDBndAQNiYXVJx-WOpt_5f8Z0EK1lsIbynr3RgKltVqmayyww2EOQuWBtcOk9aZZ_l-YrBM9PLtfLnrtSO0=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-2856",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-2856"
+            },
+            "id": "en-SK-A-2856",
+            "objectNumber": "SK-A-2856",
+            "title": "Portrait of Jan Nieuwenhuyzen",
+            "hasImage": true,
+            "principalOrFirstMaker": "Adriaan de Lelie",
+            "longTitle": "Portrait of Jan Nieuwenhuyzen, Adriaan de Lelie, 1780 - 1806",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "32e8ee8d-3932-4511-99e0-b5d0112068ed",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1978,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/Q_2uA9r_rwqoDlIFvw2FyXcnz9ODGZxfmFqFlnO2r7CuJqtm9bMcsw1mdqj3HOoZrBayknGT1L7cNSHrPpLaJkUvQ2o=s0"
+            },
+            "headerImage": {
+                "guid": "69c43ae1-38d0-43b1-b36c-2ee8fe36e068",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/GREn2GE-W2bOTogCasOnUuLsXAKKZc05yEPRV5lmmA63-Bo8FLDNNof9eEAi6oWsuPfWEEIcHMUtvneim8su9muIJqw=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-C-515",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-C-515"
+            },
+            "id": "en-SK-C-515",
+            "objectNumber": "SK-C-515",
+            "title": "Portrait of Cornelis Ploos van Amstel",
+            "hasImage": true,
+            "principalOrFirstMaker": "Jacobus Buys",
+            "longTitle": "Portrait of Cornelis Ploos van Amstel, Jacobus Buys, 1766",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "f0f6daaa-e650-41b6-86fb-8ac99fa91860",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2295,
+                "height": 2544,
+                "url": "https://lh3.googleusercontent.com/Rp-dchtZM2A5sKWE-hi5eqtqsnWfVVlNMfQ9Dc61BFx7KDihhzrmQLIXm5mGD0A5jyOu29D3bAZl-kUEwEPpYFGi5oM=s0"
+            },
+            "headerImage": {
+                "guid": "f08d63e9-389f-419c-8cf6-7645e8a0f05f",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/XqJdQXQe49bJHeLCR9NfU1-JYfF_mM29_n1o7m4sQ5Nedy5k-OisbgMVJYS0FGTQVaBsYX5G0aPxlFmNuhfoV3Bt8A=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-1374",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-1374"
+            },
+            "id": "en-SK-A-1374",
+            "objectNumber": "SK-A-1374",
+            "title": "Portrait of Johan Arnold Zoutman",
+            "hasImage": true,
+            "principalOrFirstMaker": "Cornelis van Cuylenburgh (II)",
+            "longTitle": "Portrait of Johan Arnold Zoutman, Cornelis van Cuylenburgh (II), 1801",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "d34f97f5-3fa2-41a7-ba20-bcc16cc46582",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1943,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/UwsyS-iQ68VwZW97Qb_pjTXi1c5Xgh3GaTTXBw7bYR76X947d4EH37HQGNVhSyZGvjoAk08mdAe9iVWYqxtNq5KSOQ=s0"
+            },
+            "headerImage": {
+                "guid": "ac89401d-5224-4523-bc71-bafee6811a30",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/NTZTLU3qXUtfcP8lEmKWi3yFSV_gGHKHEDdHPF4vnmQZTMVwtPdj1dJ4kYugh9rHloWu5Z9n04Adyzg4vNgfOxGllGVU=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-4888",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-4888"
+            },
+            "id": "en-SK-A-4888",
+            "objectNumber": "SK-A-4888",
+            "title": "Portrait of Pieter Groenendijk",
+            "hasImage": true,
+            "principalOrFirstMaker": "Nicolaes Maes",
+            "longTitle": "Portrait of Pieter Groenendijk, Nicolaes Maes, 1677 - 1685",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "b27ca847-fa3a-40da-93f0-b2d4496db4b9",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2050,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/ANLDcNHMRf23d2I_4oUak1XkTrOlyezQmUMBB6Vh-3I9S5DydLBbv2YoZV-kh4pKfbj-dYaMPQqirEDJg_6mTlbtnGlv=s0"
+            },
+            "headerImage": {
+                "guid": "2f4fa4be-5adb-482a-9cf4-28e1f4695b18",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/Y3ydz2jt-tR9_pmI7-T3nskTGqtPZq7zxTrZEAeX6Z2LYvqk9UWU2a6p_HfNezG3PMRtrsvpLImngiOn77Ue-T5M1pYl=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-4889",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-4889"
+            },
+            "id": "en-SK-A-4889",
+            "objectNumber": "SK-A-4889",
+            "title": "Portrait of Petronella Dunois",
+            "hasImage": true,
+            "principalOrFirstMaker": "Nicolaes Maes",
+            "longTitle": "Portrait of Petronella Dunois, Nicolaes Maes, 1677 - 1685",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "25eb8700-c250-42c5-861c-1e34c56a75a8",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2061,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/xAILiWXxU52dUFG7TCwmpgpy9pNha4WXThwyoVWsXG1ZUN0QAAs2x9JWLl-raACpqF8zeqArNCXQ5gpYek8ivky-xjM=s0"
+            },
+            "headerImage": {
+                "guid": "ef8a4213-8f73-45ef-96d8-e98224021d7d",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/r0N-BNu9-rxeeo52AOul1DoCOI2MlY3Ic6KPN0rxqlf7Cd2Q6d3tn9Nkfrw0KzQN75D8Vlcre5fVbpQz8wIKMW3pcA8=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/NG-C-2011-2",
+                "web": "http://www.rijksmuseum.nl/en/collection/NG-C-2011-2"
+            },
+            "id": "en-NG-C-2011-2",
+            "objectNumber": "NG-C-2011-2",
+            "title": "Portrait of Leonardus van der Voort",
+            "hasImage": true,
+            "principalOrFirstMaker": "Johan Bernard Scheffer",
+            "longTitle": "Portrait of Leonardus van der Voort, Johan Bernard Scheffer, 1799",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "e1bc9ff7-9996-4c06-b774-084217b0f708",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2026,
+                "height": 2500,
+                "url": "https://lh4.ggpht.com/mD3WbdiDHSFeWrf4JmPFqq2jJuffY2_o8Kp_1JrGN-KtUd8bn3IzOPqgyGKM15VgZGguDiBLzJo-sDT7DEv6hTeb2Gc=s0"
+            },
+            "headerImage": {
+                "guid": "5408d0c7-3744-44e3-8933-fbcb116e957d",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.ggpht.com/chiLwN0qMm6PImbvvE1JGFChbZozBc8N18Kpuu6lNEG1z1WZgzl0dNbSSEuLWYAcjbHTiZrXgz4uZFwbHIXFt6qfrQ=s0"
+            },
+            "productionPlaces": [
+                "Netherlands"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-4933",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-4933"
+            },
+            "id": "en-SK-A-4933",
+            "objectNumber": "SK-A-4933",
+            "title": "Portrait of Eva Goudriaan-de Veer",
+            "hasImage": true,
+            "principalOrFirstMaker": "Cornelis van Cuylenburgh (II)",
+            "longTitle": "Portrait of Eva Goudriaan-de Veer, Cornelis van Cuylenburgh (II), 1776",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "a9068186-cf9c-4435-8cbe-5c24d406a95e",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1972,
+                "height": 2500,
+                "url": "https://lh4.ggpht.com/yCDuewLTmpVxeSAyTPK4T8J_xkt8GC0AShCWSf8JurmC28ytal_clUyY-zJ_31KjI4b2055fOOI7vjf0Fss79DB-H5Q=s0"
+            },
+            "headerImage": {
+                "guid": "8e202b94-5beb-47ea-96d7-25ac02d361fb",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh6.ggpht.com/5yaVRFFkigyz5KWNyy5q_Ox8R3IXEV0Q08IBNTYUyPwfLQiyYhkYB2GeWDv83j-HU6A5w7dEtHw3hmp7ks2bA2ZrnA4=s0"
+            },
+            "productionPlaces": [
+                "Netherlands"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-4929",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-4929"
+            },
+            "id": "en-SK-A-4929",
+            "objectNumber": "SK-A-4929",
+            "title": "Portrait of Hendrick de Hartog",
+            "hasImage": true,
+            "principalOrFirstMaker": "Adriaan de Lelie",
+            "longTitle": "Portrait of Hendrick de Hartog, Adriaan de Lelie, 1790",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "37de1ca8-63a8-4f47-bb4d-b7df88ad0b60",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1983,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/r_UfkOMQybjD8OfkeocZkUGVA4lKVp9AuG5iN0tNnmQ1fNPWjCSGOLaOxi4E_9hSIp6rffQBInIz3EFWfQOLo3k4u6E=s0"
+            },
+            "headerImage": {
+                "guid": "9e3089d2-52fd-4eca-91ba-a211c576b6af",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/Lhe-8TILiCUArceB8TzPVrwklPigMbmeezyX7QHWHQXpAAtn4xk4cD942l_8ICu7JZhhSfEF2szL0CZ1ABRE56uY5DQ=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-4833",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-4833"
+            },
+            "id": "en-SK-A-4833",
+            "objectNumber": "SK-A-4833",
+            "title": "Portrait of Haesje Jacobsdr van Cleyburg",
+            "hasImage": true,
+            "principalOrFirstMaker": "Rembrandt van Rijn",
+            "longTitle": "Portrait of Haesje Jacobsdr van Cleyburg, Rembrandt van Rijn, 1634",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "64251961-db46-4617-9682-6385c88c6a0e",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2050,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/8IJF23RpZ5Jjukz6GHkAvagBGK4X5ZRJygm6DMvR7a0eQQWc_NoPzDZmf2UugJ-2NUxgFcJ2tx0c26K8EZvzkQBlra3o=s0"
+            },
+            "headerImage": {
+                "guid": "9ab36ae7-657e-464f-a437-84855de2160e",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/lO9X4FfTNDQqCqe_BH5uJMZWG_ZR8Xt01Fk_AJQ9jVg2XYocAkRKZ4_9HQ6j3jtGjs9QQYJuYWdtyLacqsZdMl1xiAk=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-3951",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-3951"
+            },
+            "id": "en-SK-A-3951",
+            "objectNumber": "SK-A-3951",
+            "title": "Portrait of a Dutch Admiral of the Fleet",
+            "hasImage": true,
+            "principalOrFirstMaker": "Pieter Pietersz. (I)",
+            "longTitle": "Portrait of a Dutch Admiral of the Fleet, Pieter Pietersz. (I) (circle of), 1570 - 1610",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "e793e9a3-76b3-46e9-814e-d829c8165e25",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1846,
+                "height": 2500,
+                "url": "https://lh4.ggpht.com/GhDJxM6wOlG5E89uc00JTJXPxd4ChiGu6cb_9aRKVttRlOTWJSsnUrEE--6x6plIC1eHW2LNmZL6BS4aMyTKp_8IotvV=s0"
+            },
+            "headerImage": {
+                "guid": "301c4e90-e472-4be7-9c63-ca49e37a6a60",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1846,
+                "height": 443,
+                "url": "https://lh6.ggpht.com/8mrllO849ZKjr8A6F-OsyEM33rUYAww3esOQ0Kd4UFtmQEx1NPxCcRxTphR3C51w8x_DXJkLnVog8UqCPMMY3pb1Lylf=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-995",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-995"
+            },
+            "id": "en-SK-A-995",
+            "objectNumber": "SK-A-995",
+            "title": "Portrait of a boy with a billygoat",
+            "hasImage": true,
+            "principalOrFirstMaker": "Jan Albertsz. Rotius",
+            "longTitle": "Portrait of a boy with a billygoat, Jan Albertsz. Rotius, 1652",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "42527eb7-f67b-448a-a671-4efaf61560dd",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1849,
+                "height": 2500,
+                "url": "https://lh4.ggpht.com/PfFu8YbsbZ7dVrTVKWL4Sf9ig9pQwi4159Pu8YNyWoqhlCzbKXBOAXSh1mxQUNHiOFFcsd-ZLsMHSaD3opcQLcYyoO4=s0"
+            },
+            "headerImage": {
+                "guid": "5746b709-7e67-45d2-84f0-3066bcc016a6",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh6.ggpht.com/YpMzdQ_QRyFbTijBnUfrhKCpeKndrC7N-06wFh4IoXx-5G-auSBItd0fJ2TdYiIts-jtKnDKEQfEp9yNpOiK5Z5f0Q=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-C-1618",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-C-1618"
+            },
+            "id": "en-SK-C-1618",
+            "objectNumber": "SK-C-1618",
+            "title": "Portrait of Joris van Egmond",
+            "hasImage": true,
+            "principalOrFirstMaker": "Jan van Scorel",
+            "longTitle": "Portrait of Joris van Egmond, Jan van Scorel, c. 1535 - c. 1540",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "34eccb7a-1731-45ba-a085-e1907d35e860",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2856,
+                "height": 2004,
+                "url": "https://lh3.googleusercontent.com/CbRzh7nMHiJbJR9cXxNvGkFav6Ihx1smHkRDtRjKMzoWUOI_ugxWihfk0mpm3oYFXCoESgM4PRD0nRA-wXoX128xrOVr=s0"
+            },
+            "headerImage": {
+                "guid": "b12bdea3-5e6c-41ae-b06f-baec6e48d6b0",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/_WUspNcOjW9P7cvaqg7CucqDq-xJpp13wlWmwJoWlzGYl-UvNvlAxfFOqKI3onqNd-mGFQXkXMMO3yRGzVBIWMJHPw=s0"
+            },
+            "productionPlaces": [
+                "? Utrecht"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-1310",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-1310"
+            },
+            "id": "en-SK-A-1310",
+            "objectNumber": "SK-A-1310",
+            "title": "Portrait of Martinus Alewijn",
+            "hasImage": true,
+            "principalOrFirstMaker": "Dirck Dircksz. van Santvoort",
+            "longTitle": "Portrait of Martinus Alewijn, Dirck Dircksz. van Santvoort, 1644",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "8769b279-f18a-4ee0-b1b9-6555a195aea6",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1997,
+                "height": 2712,
+                "url": "https://lh3.googleusercontent.com/9B3zn1k8vU2X3XYledxhQ9iQZJu5Caq2QqjUpPYJqcre4FkIKRVfLDy6cXR5xaEgvJOAyG8W0ktzWTiutGMVdS6xVWE=s0"
+            },
+            "headerImage": {
+                "guid": "557b26d3-c70c-4c98-836b-09b8b1b8a503",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/1XmzGzVDTf2yBUy7BNC2g7IOLXzg7spmJ9H5rRWzqL1UDXPPYwEsUpw0atIXRZIGddmF-TYXQt5SbuOBJv-X4qIbwmE=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-1747-C",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-1747-C"
+            },
+            "id": "en-SK-A-1747-C",
+            "objectNumber": "SK-A-1747-C",
+            "title": "Portrait of Cornelia Cornelisdr van Esch",
+            "hasImage": true,
+            "principalOrFirstMaker": "anonymous",
+            "longTitle": "Portrait of Cornelia Cornelisdr van Esch, anonymous (possibly), 1632",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "2d5efb73-951f-41bf-93d0-46000a0b43b6",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2000,
+                "height": 2500,
+                "url": "https://lh3.googleusercontent.com/KfF4ggmnkuDYVIjBPq3qvGThnRLBshnpzBgbLEdZnZTJjYRrTuQ_36rhEW-lBEC7piEAwJuYWcI2piouwO37_CntWW-SZM9votxjHGJPGw=s0"
+            },
+            "headerImage": {
+                "guid": "b1999708-7719-4a8d-83dc-213f51d80ded",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/SL5iOj_avvlJH93w5ReXdQjK22qffjmvUuw5GvKpb0Vnnt7vyTRLtHKGHRj0lpLgHLRCEYYhTgiaLlWvy4HUK8HwvcaNVivmtg5Sr8H0tA=s0"
+            },
+            "productionPlaces": [
+                "Dordrecht"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-3036",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-3036"
+            },
+            "id": "en-SK-A-3036",
+            "objectNumber": "SK-A-3036",
+            "title": "Portrait of a young Woman",
+            "hasImage": true,
+            "principalOrFirstMaker": "Giambattista Moroni",
+            "longTitle": "Portrait of a young Woman, Giambattista Moroni, 1560 - 1578",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "e3f89158-d1d8-4fa3-b9e9-96f0267f5ef0",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 2355,
+                "height": 2642,
+                "url": "https://lh3.googleusercontent.com/fv_FzdRg1xDhWv9fTMiJgqVmXiABlNRewHyjxe56WXuJxsakmFj1DwNOYKexPUlVaeJQz7eKWJpm3Ou57Y7UvwNCge8=s0"
+            },
+            "headerImage": {
+                "guid": "f6247052-dc6a-40e5-9892-11255c1485db",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/5MSKjFZZgYDZ8YkjeoUmde53htIeFF--lwhS6lt1hhCnZIVxw6O_-nXrOOjcTOZ_aFLmK92sggKh5NEOnu8O9uqfs8Q=s0"
+            },
+            "productionPlaces": []
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-3853",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-3853"
+            },
+            "id": "en-SK-A-3853",
+            "objectNumber": "SK-A-3853",
+            "title": "Portrait of a Haarlem Citizen",
+            "hasImage": true,
+            "principalOrFirstMaker": "Jan van Scorel",
+            "longTitle": "Portrait of a Haarlem Citizen, Jan van Scorel, 1529",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "115d226b-76b6-4639-b0a5-a99f4b435d55",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1915,
+                "height": 2640,
+                "url": "https://lh3.googleusercontent.com/Ebe2ATRWpsTQy5j1ApqWgb6Fdplr2CTnBUol4k1YagiROKfv2PYVYv--1HMfhFs7Ah1zbZ5xXVGklBIc_DKsojuqtJzM=s0"
+            },
+            "headerImage": {
+                "guid": "c2e66b1f-ded5-4967-8e7e-addda4259abd",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1915,
+                "height": 459,
+                "url": "https://lh3.googleusercontent.com/Jv0C-DSmdRtAKs3XNK32R4EdBxUW9hzRvskW6WwJY5aDAJLACdx4SvHjk6AQimsJJZa5-zYWJ5wuX0FR8lp_tunVETCg=s0"
+            },
+            "productionPlaces": [
+                "Haarlem"
+            ]
+        },
+        {
+            "links": {
+                "self": "http://www.rijksmuseum.nl/api/en/collection/SK-A-1250",
+                "web": "http://www.rijksmuseum.nl/en/collection/SK-A-1250"
+            },
+            "id": "en-SK-A-1250",
+            "objectNumber": "SK-A-1250",
+            "title": "Portrait of Henrick Hooft",
+            "hasImage": true,
+            "principalOrFirstMaker": "Michiel Jansz van Mierevelt",
+            "longTitle": "Portrait of Henrick Hooft, Michiel Jansz van Mierevelt, 1640",
+            "showImage": true,
+            "permitDownload": true,
+            "webImage": {
+                "guid": "4392a5b0-3949-40d6-b9a8-e215a2c5952b",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 4461,
+                "height": 5142,
+                "url": "https://lh3.googleusercontent.com/TepWqXZXtd6Z7wfF8V6cPB9YhWWrO8N2x3-wFJE8LpITRTUIZ2sdWeGXRnpiJcwTeA6NVSfWalArG-A09sscoJbnGBly5eoDtdDEqDbd=s0"
+            },
+            "headerImage": {
+                "guid": "336b29a0-2394-43c9-b6ba-8acbcb3f3490",
+                "offsetPercentageX": 0,
+                "offsetPercentageY": 0,
+                "width": 1920,
+                "height": 460,
+                "url": "https://lh3.googleusercontent.com/NQapGHckoYWIXriQmp9du1FF3tlrINMcLieg4tGlcLkDYq3wvxglZCATDRvW5VGCXFlYDXQ-lfBKFg1Ti_C1ZmGFvSGLYySFY8IURuY=s0"
+            },
+            "productionPlaces": []
+        }
+    ]
+}
