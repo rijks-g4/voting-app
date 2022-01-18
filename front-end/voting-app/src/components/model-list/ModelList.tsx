@@ -6,8 +6,20 @@ function intersection(a: any, b: any) {
 }
 
 interface ModelListProps {
-    models: any[];
+    models: string[];
     voteModel: (model: string) => void;
+    setSelectedModels: (models: string[]) => void;
+}
+
+const COLOR_MAPPING: any = {
+    "SegFormer": [244, 96, 54, 0.5],
+    "model": [91, 133, 170, 0.5],
+    "Purple Navy": [65, 71, 112, 0.5],
+    "Russian Violet": [55, 34, 72, 0.5],
+    "Xiketic": [23, 17, 35, 0.5],
+    "Misty Rose": [244, 219, 216, 0.5],
+    "Dark Pastel Green": [76, 185, 68, 0.5],
+    "Baby Powder": [253, 255, 252, 0.5],
 }
 
 function ModelList(props: ModelListProps): JSX.Element {
@@ -25,6 +37,7 @@ function ModelList(props: ModelListProps): JSX.Element {
         }
 
         setChecked(newChecked);
+        props.setSelectedModels(newChecked);
     };
 
     function handleVote(model: string): void {
@@ -54,22 +67,24 @@ function ModelList(props: ModelListProps): JSX.Element {
                 component="div"
                 role="list"
             >
-                {props.models.map((model) => {
-                    const labelId = `transfer-list-all-item-${model[0]}-label`;
+                {props.models.map((model_name) => {
+                    const labelId = `transfer-list-all-item-${model_name}-label`;
 
                     return (
                         <ListItem
-                            key={model[0]}
+                            key={model_name}
                             role="listitem"
-                            button
                             secondaryAction={
-                                <Button variant={votedModel === model[0] ? "contained" : "outlined"} onClick={() => handleVote(model[0])}>
+                                <Button
+                                    variant={votedModel === model_name ? "contained" : "outlined"}
+                                    onClick={() => handleVote(model_name)}
+                                >
                                     Vote
                                 </Button>
                             }
                             style={{
-                                backgroundColor: checked.indexOf(model) !== -1 ? model[1] : 'white',
-                                borderColor: (checked.indexOf(model) !== -1) ? 'none' : model[1],
+                                backgroundColor: checked.indexOf(model_name) !== -1 ? `rgba(${COLOR_MAPPING[model_name]})` : 'white',
+                                borderColor: (checked.indexOf(model_name) !== -1) ? 'none' : `rgba(${COLOR_MAPPING[model_name]})`,
                                 borderWidth: '2px',
                                 borderStyle: "dashed",
                                 marginBottom: "10px",
@@ -78,16 +93,16 @@ function ModelList(props: ModelListProps): JSX.Element {
                         >
                             <ListItemIcon>
                                 <Checkbox
-                                    checked={checked.indexOf(model) !== -1}
+                                    checked={checked.indexOf(model_name) !== -1}
                                     tabIndex={-1}
                                     disableRipple
                                     inputProps={{
                                         'aria-labelledby': labelId,
                                     }}
-                                    onClick={() => handleToggle(model)}
+                                    onClick={() => handleToggle(model_name)}
                                 />
                             </ListItemIcon>
-                            <ListItemText id={labelId} primary={model[0]} />
+                            <ListItemText id={labelId} primary={model_name} />
                         </ListItem>
                     );
                 })}

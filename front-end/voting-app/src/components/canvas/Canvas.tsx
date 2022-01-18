@@ -5,6 +5,8 @@ interface CanvasProps {
     rawImageHref: string;
     rawImageWidth: number;
     rawImageHeight: number;
+    masks: any;
+    selectedModels: string[];
 }
 
 const CANVAS_HEIGHT = 500;
@@ -29,12 +31,22 @@ function Canvas(props: CanvasProps): JSX.Element {
                     const ratio = props.rawImageWidth / props.rawImageHeight;
                     const height = CANVAS_HEIGHT;
                     const width = height * ratio;
-                    console.log(ratio, height, width);
 
                     const left = canvasRef.current.width / 2 - width / 2;
                     const top = canvasRef.current.height / 2 - height / 2;
 
                     ctx.drawImage(rawImage, left, top, width, height);
+
+                    ctx.globalAlpha = 0.5;
+                    Object.keys(props.masks).forEach((model: any) => {
+                        if (props.selectedModels.indexOf(model) !== -1) {
+                            const image = new Image();
+                            image.onload = function() {
+                                ctx.drawImage(image, left, top, width, height);
+                            };
+                            image.src = `data:image/png;base64,${props.masks[model]}`;
+                        }
+                    });
                 }
             }
             rawImage.src = props.rawImageHref;
@@ -42,11 +54,9 @@ function Canvas(props: CanvasProps): JSX.Element {
     }, [props, canvasRef])
   
   return (
-        <>
-            <div style={{ width: "100%", height: `${CANVAS_HEIGHT}px` }}>
-                <canvas ref={canvasRef} />
-            </div>
-        </>
+        <div style={{ width: "100%", height: `${CANVAS_HEIGHT}px` }}>
+            <canvas ref={canvasRef} />
+        </div>
   );
 }
 

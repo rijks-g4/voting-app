@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Alert, Box, Breadcrumbs, Container, Grid, Link, Snackbar, Typography } from '@mui/material';
 import { useParams } from 'react-router-dom';
 import { useMutation, useQuery } from 'react-query';
@@ -6,27 +6,24 @@ import Canvas from '../../components/canvas/Canvas';
 import Description from '../../components/description/Description';
 import ModelList from '../../components/model-list/ModelList';
 
+
 function Details(): JSX.Element {
     let { objectNumber } = useParams();
+    const [selectedModels, setSelectedModels] = useState<string[]>([]);
 
     // Queries
-    const { data: artObject, isLoading: rawImageIsLoading, isError: rawImageIsError } = useQuery('rawImage', getImage);
+    const { data: artObject } = useQuery('rawImage', getImage);
+    const { data: masks } = useQuery('masks', getMasks);
 
     function getImage(): Promise<any> {
         return fetch(`${process.env.REACT_APP_BACK_END_URL}/art_object?object_number=${objectNumber}`)
             .then(res => res.json());
     }
 
-    const models = [
-        ['1', '#ECDCB0'],
-        ['2', '#8CC084'],
-        ['3', '#968E85'],
-    ];
-
     const voteMutation = useMutation((model: string) => {
         return fetch(`${process.env.REACT_APP_BACK_END_URL}/vote?object_number=${objectNumber}`, {
-            method: 'POST', // *GET, POST, PUT, DELETE, etc.
-            mode: 'cors', // no-cors, *cors, same-origin
+            method: 'POST',
+            mode: 'cors',
             headers: {
                 'Content-Type': 'application/json'
             },
@@ -37,16 +34,17 @@ function Details(): JSX.Element {
         .then(res => res.json());;
     });
 
-    // function getMasks(): Promise<any[]> {
-
-    // }
+    function getMasks(): Promise<any> {
+        return fetch(`${process.env.REACT_APP_BACK_END_URL}/masks?object_number=${objectNumber}`)
+            .then(res => res.json());
+    }
 
     return (
         <Container>
             <Snackbar
                 anchorOrigin={{ vertical: 'top', horizontal: 'center'}}
                 open={voteMutation.isSuccess}
-                autoHideDuration={6000}
+                autoHideDuration={3000}
                 onClose={() => voteMutation.reset()}
             >
                 <Alert variant="filled" severity="success" sx={{ width: '100%' }}>
@@ -61,21 +59,29 @@ function Details(): JSX.Element {
             </Breadcrumbs>
             <Grid container spacing={2}>
                 <Grid item xs={8}>
-                    {!rawImageIsLoading && !rawImageIsError && (
+                    {artObject && masks && (
                         <Box width="100%" style={{ position: "relative" }}>
                             <Canvas
                                 rawImageHref={artObject['webImage']['url']}
                                 rawImageHeight={artObject['webImage']['height']}
                                 rawImageWidth={artObject['webImage']['width']}
+                                masks={masks}
+                                selectedModels={selectedModels}
                             />
                         </Box>
                     )}
                 </Grid>
                 <Grid item xs={4}>
-                    <ModelList models={models} voteModel={(model: string) => voteMutation.mutate(model)} />
+                    {masks && (
+                        <ModelList
+                            models={Object.keys(masks)}
+                            voteModel={(model: string) => voteMutation.mutate(model)}
+                            setSelectedModels={setSelectedModels}
+                        />
+                    )}
                 </Grid>
                 <Grid item xs={8}>
-                    {!rawImageIsLoading && !rawImageIsError && (
+                    {artObject && (
                         <Description artObject={artObject} />
                     )}
                 </Grid>

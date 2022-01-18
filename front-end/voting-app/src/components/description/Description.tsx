@@ -6,9 +6,6 @@ interface DescriptionProps {
 }
 
 function Description(props: DescriptionProps): JSX.Element {
-
-    console.log(props.artObject);
-
     return (
         <Card sx={{ minWidth: 275 }}>
             <CardContent>

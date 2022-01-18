@@ -12,6 +12,8 @@ import './App.css';
 import Gallery from './pages/gallery/Gallery';
 import Details from './pages/details/Details';
 import Summary from './pages/summary/Summary';
+import TopBar from './components/top-bar/TopBar';
+import { Box } from '@mui/material';
 
 // Create a client
 const queryClient = new QueryClient()
@@ -20,13 +22,14 @@ function App() {
   return (
     <QueryClientProvider client={queryClient}>
       <Router>
-        <div>
+        <Box marginBottom="2em">
+          <TopBar />
           <Routes>
             <Route path="/gallery" element={<Gallery />} />
             <Route path="/artObjects/:objectNumber" element={<Details />} />
-            <Route path="/summary" element={<Summary />} />
+            <Route path="/summaryStats" element={<Summary />} />
           </Routes>
-        </div>
+        </Box>
       </Router>
     </QueryClientProvider>
   );
