@@ -1,18 +1,55 @@
 import os
+import io
+from base64 import encodebytes
 
-from flask import Flask, request
-from flask_cors import CORS, cross_origin
+from flask import Flask, request, render_template, send_from_directory
+from flask_cors import CORS
+from PIL import Image
 
 from database import art_objects_collection, votes_collection
-from utils import get_models, parse_json
+from utils import get_models, parse_json, MASKS_FOLDER
 
 # Flask
-app = Flask(__name__)
+app = Flask(__name__, static_folder="build/static", template_folder="build")
 CORS(app)
-CORS_ALLOWED_URL = os.environ['FRONT_END_URL']
+
+# Serve React App
+@app.route('/')
+def serve():
+    return render_template('index.html')
+
+
+@app.route("/manifest.json")
+def manifest():
+    return send_from_directory('./build', 'manifest.json')
+
+
+@app.route('/favicon.ico')
+def favicon():
+    return send_from_directory('./build', 'favicon.ico')
+
+
+@app.route('/logo192.png')
+def logo192():
+    return send_from_directory('./build', 'logo192.png')
+
+
+@app.route('/logo512.png')
+def logo512():
+    return send_from_directory('./build', 'logo512.png')
+
+
+@app.errorhandler(404)
+def not_found(e):
+    return render_template('index.html')
+
+
+@app.route("/healthcheck")
+def healthcheck():
+    return { 'healthcheck': True }
+
 
 @app.route("/art_object")
-@cross_origin([CORS_ALLOWED_URL])
 def get_art_object():
     object_number = request.args.get('object_number')
     art_object = art_objects_collection.find_one({ "objectNumber": object_number })
@@ -26,7 +63,6 @@ def get_art_object():
 
 
 @app.route("/art_objects")
-@cross_origin([CORS_ALLOWED_URL])
 def get_art_objects():
     art_objects = art_objects_collection.find()
     return {
@@ -35,14 +71,28 @@ def get_art_objects():
 
 
 @app.route("/masks")
-@cross_origin([CORS_ALLOWED_URL])
 def get_masks():
-    # TODO: Implement get_masks endpoint
-    return {}
+    object_number = request.args.get('object_number')
+
+    models = get_models()
+
+    if len(models) > 0:
+        response = dict()
+
+        for model in models:
+            full_mask_path = os.path.join(MASKS_FOLDER, model, f'{object_number}.png')
+            print(full_mask_path)
+            if os.path.exists(full_mask_path):
+                response[model] = get_response_image(full_mask_path)
+
+        return response
+    else:
+        return {
+            'error': 'No models found.'
+        }
 
 
 @app.route("/vote", methods=['GET', 'POST'])
-@cross_origin([CORS_ALLOWED_URL])
 def vote():
     object_number = request.args.get('object_number')
 
@@ -62,7 +112,6 @@ def vote():
 
 
 @app.route("/summary")
-@cross_origin([CORS_ALLOWED_URL])
 def summary():
     results = dict()
     for model in get_models():
@@ -72,3 +121,15 @@ def summary():
         results[model] = cursor[0][model]
 
     return results
+
+
+def get_response_image(image_path):
+    pil_img = Image.open(image_path, mode='r') # reads the PIL image
+    byte_arr = io.BytesIO()
+    pil_img.save(byte_arr, format='PNG') # convert the PIL image to byte array
+    encoded_img = encodebytes(byte_arr.getvalue()).decode('ascii') # encode as base64
+    return encoded_img
+
+
+if __name__ == '__main__':
+    app.run(host="127.0.0.1", debug=True)

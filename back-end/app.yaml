@@ -1,0 +1,6 @@
+runtime: python37
+entrypoint: gunicorn -b :$PORT main:app
+includes:
+  - env_variables.yaml
+automatic_scaling:
+  max_instances: 1
