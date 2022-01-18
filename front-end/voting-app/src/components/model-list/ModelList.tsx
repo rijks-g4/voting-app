@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Card, CardHeader, Divider, List, ListItem, ListItemIcon, Checkbox, ListItemText, IconButton, Button } from '@mui/material';
+import { Card, CardHeader, Divider, List, ListItem, ListItemIcon, Checkbox, ListItemText, Button } from '@mui/material';
 
 function intersection(a: any, b: any) {
     return a.filter((value: any) => b.indexOf(value) !== -1);
@@ -63,7 +63,7 @@ function ModelList(props: ModelListProps): JSX.Element {
                             role="listitem"
                             button
                             secondaryAction={
-                                <Button variant={votedModel == model[0] ? "contained" : "outlined"} onClick={() => handleVote(model[0])}>
+                                <Button variant={votedModel === model[0] ? "contained" : "outlined"} onClick={() => handleVote(model[0])}>
                                     Vote
                                 </Button>
                             }

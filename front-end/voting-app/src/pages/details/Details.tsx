@@ -12,12 +12,9 @@ function Details(): JSX.Element {
     // Queries
     const { data: artObject, isLoading: rawImageIsLoading, isError: rawImageIsError } = useQuery('rawImage', getImage);
 
-    // console.log(data);
-
     function getImage(): Promise<any> {
-        // objectNumber
-        return fetch(`https://www.rijksmuseum.nl/api/nl/collection/${objectNumber}?key=9HWI0Lk3`)
-            .then(res => res.json())
+        return fetch(`${process.env.REACT_APP_BACK_END_URL}/art_object?object_number=${objectNumber}`)
+            .then(res => res.json());
     }
 
     const models = [
@@ -27,19 +24,17 @@ function Details(): JSX.Element {
     ];
 
     const voteMutation = useMutation((model: string) => {
-        return fetch(`https://www.rijksmuseum.nl/api/nl/collection/${objectNumber}?key=9HWI0Lk3`)
-            .then(res => res.json());
-        // return fetch('asdadaadada', {
-        //     method: 'POST', // *GET, POST, PUT, DELETE, etc.
-        //     mode: 'cors', // no-cors, *cors, same-origin
-        //     headers: {
-        //         'Content-Type': 'application/json'
-        //     },
-        //     body: JSON.stringify({
-        //         model: model,
-        //         objectNumber: objectNumber,
-        //     }) // body data type must match "Content-Type" header
-        // });
+        return fetch(`${process.env.REACT_APP_BACK_END_URL}/vote?object_number=${objectNumber}`, {
+            method: 'POST', // *GET, POST, PUT, DELETE, etc.
+            mode: 'cors', // no-cors, *cors, same-origin
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({
+                model_name: model,
+            }),
+        })
+        .then(res => res.json());;
     });
 
     // function getMasks(): Promise<any[]> {
@@ -69,9 +64,9 @@ function Details(): JSX.Element {
                     {!rawImageIsLoading && !rawImageIsError && (
                         <Box width="100%" style={{ position: "relative" }}>
                             <Canvas
-                                rawImageHref={artObject['artObject']['webImage']['url']}
-                                rawImageHeight={artObject['artObject']['webImage']['height']}
-                                rawImageWidth={artObject['artObject']['webImage']['width']}
+                                rawImageHref={artObject['webImage']['url']}
+                                rawImageHeight={artObject['webImage']['height']}
+                                rawImageWidth={artObject['webImage']['width']}
                             />
                         </Box>
                     )}
@@ -81,7 +76,7 @@ function Details(): JSX.Element {
                 </Grid>
                 <Grid item xs={8}>
                     {!rawImageIsLoading && !rawImageIsError && (
-                        <Description artObject={artObject['artObject']} />
+                        <Description artObject={artObject} />
                     )}
                 </Grid>
             </Grid>

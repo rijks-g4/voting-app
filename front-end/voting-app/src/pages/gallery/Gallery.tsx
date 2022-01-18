@@ -9,11 +9,9 @@ function Gallery(): JSX.Element {
     // Queries
     const { data, isLoading, isError } = useQuery('artObjects', getArtObjects);
 
-    // console.log(data);
-
     function getArtObjects(): Promise<any> {
-        return fetch('https://www.rijksmuseum.nl/api/en/collection?key=9HWI0Lk3&type=painting&imgonly=True&ps=100&p=1')
-            .then(res => res.json())
+        return fetch(`${process.env.REACT_APP_BACK_END_URL}/art_objects`)
+            .then((res) => res.json());
     }
 
     function openDetailsPage(objectNumber: string): void {
@@ -25,7 +23,7 @@ function Gallery(): JSX.Element {
             <p>Gallery:</p>
             {!isLoading && !isError && (
                 <ImageList variant="masonry" cols={3} gap={8}>
-                    {data['artObjects'].map((artObject: any) => (
+                    {data['art_objects'].map((artObject: any) => (
                         <ImageListItem key={artObject['objectNumber']}>
                             <img
                                 src={`${artObject['webImage']['url']}?w=248&fit=crop&auto=format`}
