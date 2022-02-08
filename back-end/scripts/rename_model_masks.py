@@ -1,6 +1,12 @@
 import os
 import json
 
+PREFIX = {
+    'mask output deeplabv3_xception_tf_dim_ordering_tf_kernels': 'deeplabv3_xception_tf_dim_ordering_tf_kernels_',
+    'mask output deeplabv3_xception65_ade20k': 'deeplabv3_xception65_ade20k_',
+    'mask output mask_rcnn_coco': 'mask_rcnn_coco_'
+}
+
 
 def create_name_mapping() -> None:
     name_mapping_path = os.environ['NAME_MAPPING_PATH']
@@ -13,12 +19,18 @@ def create_name_mapping() -> None:
 
         for model in models:
             for key, value in name_mapping.items():
-                key = key.split('.')[0]
                 filename = f'{key}.npy'
+
+                if model in PREFIX:
+                    filename = f'{PREFIX[model]}{filename}'
 
                 old_path = os.path.join(model_masks_dir, model, filename)
                 new_path = os.path.join(model_masks_dir, model, f'{value}.npy')
-                os.rename(old_path, new_path)
+
+                try:
+                    os.rename(old_path, new_path)
+                except:
+                    print(old_path.split('/')[-1])
 
 
 if __name__ == "__main__":

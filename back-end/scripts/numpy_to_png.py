@@ -4,12 +4,12 @@ from PIL import Image
 import numpy as np
 
 COLOR_MAPPING = {
-    "SegFormer": (244, 96, 54, 255),
-    "model": (91, 133, 170, 255),
-    "Purple Navy": (65, 71, 112, 255),
-    "Russian Violet": (55, 34, 72, 255),
-    "Xiketic": (23, 17, 35, 255),
-    "Misty Rose": (244, 219, 216, 255),
+    "segformer_masks": (244, 96, 54, 255),
+    "deeplabv3_xception_tf_dim_ordering_tf_kernels": (91, 133, 170, 255),
+    "deeplabv3_xception65_ade20k": (65, 71, 112, 255),
+    "fcn_resnet101_masks": (55, 34, 72, 255),
+    "mask_rcnn_coco": (23, 17, 35, 255),
+    "unet": (244, 219, 216, 255),
     "Dark Pastel Green": (76, 185, 68, 255),
     "Baby Powder": (253, 255, 252, 255),
 }
@@ -32,7 +32,7 @@ def numpy_to_png() -> None:
             numpy_file_path = os.path.join(model_dir, mask)
             data = np.load(numpy_file_path)
 
-            if model in ['model']:
+            if model in ['mask_rcnn_coco']:
                 data = np.logical_or.reduce(data, axis=2).astype(int)
 
             result = np.zeros((*data.shape, 4), dtype=np.uint8)
