@@ -1,5 +1,6 @@
 import React from 'react';
 import { Card, CardContent, Typography, CardActions, Button } from '@mui/material';
+import { COLORS } from '../../constants';
 
 interface DescriptionProps {
     artObject: any;
@@ -7,12 +8,19 @@ interface DescriptionProps {
 
 function Description(props: DescriptionProps): JSX.Element {
     return (
-        <Card sx={{ minWidth: 275 }}>
+        <Card
+            sx={{ minWidth: 275 }}
+            style={{
+                backgroundColor: COLORS.MEDIUM_GOLD,
+                width: '100%',
+                color: COLORS.YELLOW
+            }}
+        >
             <CardContent>
-                <Typography sx={{ fontSize: 14 }} color="text.secondary" gutterBottom>
+                <Typography sx={{ fontSize: 14 }} gutterBottom>
                     {props.artObject['objectNumber']}
                 </Typography>
-                <Typography variant="h5" component="div">
+                <Typography variant="h5" color={COLORS.DARK_GREY}>
                     {props.artObject['title']}
                 </Typography>
                 <Typography sx={{ mb: 1.5 }} color="text.secondary">

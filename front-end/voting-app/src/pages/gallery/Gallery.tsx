@@ -1,8 +1,8 @@
 import React, { useState } from 'react';
 import { useQuery } from 'react-query';
-import { IconButton, ImageList, ImageListItem, ImageListItemBar, Container, Pagination, Grid, Box, CircularProgress } from '@mui/material';
-import InfoIcon from '@mui/icons-material/Info';
+import { ImageList, ImageListItem, ImageListItemBar, Container, Pagination, Grid, Box, CircularProgress } from '@mui/material';
 import { useNavigate } from 'react-router-dom';
+import { COLORS } from '../../constants';
 
 const PER_PAGE= 20;
 
@@ -10,8 +10,7 @@ function Gallery(): JSX.Element {
     const navigate = useNavigate();
     const [page, setPage] = useState<number>(1);
 
-    // Queries
-    const { data, isLoading } = useQuery('artObjects', getArtObjects);
+    const { data, isLoading } = useQuery('artObjects - gallery', getArtObjects);
 
     function getArtObjects(): Promise<any> {
         return fetch(`${process.env.REACT_APP_BACK_END_URL}/art_objects`)
@@ -23,7 +22,9 @@ function Gallery(): JSX.Element {
     }
 
     return (
-        <Container>
+        <Container
+            maxWidth="xl"
+        >
             {isLoading && (
                 <Box
                     display="flex"
@@ -46,14 +47,18 @@ function Gallery(): JSX.Element {
                         >
                             <Pagination
                                 count={Math.ceil(data['art_objects'].length / PER_PAGE)}
-                                color="primary"
                                 onChange={(event: any, page: number) => setPage(page)}
                                 page={page}
+                                style={{
+                                    backgroundColor: COLORS.MEDIUM_GOLD,
+                                    borderRadius: "5px"
+                                }}
+                                // color={COLORS.BLACK}
                             />
                         </Box>
                     </Grid>
                     <Grid item xs={12}>
-                        <ImageList variant="masonry" cols={3} gap={8}>
+                        <ImageList variant="masonry" cols={4} gap={8}>
                             {data['art_objects'].slice((page - 1) * PER_PAGE, page * PER_PAGE).map((artObject: any) => (
                                 <ImageListItem key={artObject['objectNumber']}>
                                     <img
@@ -67,16 +72,9 @@ function Gallery(): JSX.Element {
                                         }}
                                     />
                                     <ImageListItemBar
+                                        sx={{ display: { xs: 'none', md: 'flex' } }}
                                         title={artObject['title']}
                                         subtitle={artObject['principalOrFirstMaker']}
-                                        actionIcon={
-                                            <IconButton
-                                                sx={{ color: 'rgba(255, 255, 255, 0.54)' }}
-                                                aria-label={`info about ${artObject['title']}`}
-                                            >
-                                                <InfoIcon />
-                                            </IconButton>
-                                        }
                                     />
                                 </ImageListItem>
                             ))}
@@ -89,9 +87,12 @@ function Gallery(): JSX.Element {
                         >
                             <Pagination
                                 count={Math.ceil(data['art_objects'].length / PER_PAGE)}
-                                color="primary"
                                 onChange={(event: any, page: number) => setPage(page)}
                                 page={page}
+                                style={{
+                                    backgroundColor: COLORS.MEDIUM_GOLD,
+                                    borderRadius: "5px"
+                                }}
                             />
                         </Box>
                     </Grid>
