@@ -1,4 +1,6 @@
-# voting-app
+# Voting App
+
+![Voting App - Poster](./dsp-poster.png)
 
 To run the back end, check the [Back End README](back-end/README.md).
 
